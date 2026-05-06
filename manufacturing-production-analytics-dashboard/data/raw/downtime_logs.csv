@@ -1,0 +1,2161 @@
+date,machine,shift,downtime_reason,minutes
+2025-01-01,Line_1,A,Quality Hold,65.4
+2025-01-01,Line_1,B,Material Shortage,45.3
+2025-01-01,Line_1,C,Material Shortage,38.9
+2025-01-01,Line_2,A,Material Shortage,9.9
+2025-01-01,Line_2,B,Changeover,57.7
+2025-01-01,Line_2,C,Maintenance,11.9
+2025-01-01,Line_3,A,Maintenance,39.8
+2025-01-01,Line_3,B,Quality Hold,49.9
+2025-01-01,Line_3,C,Changeover,31.8
+2025-01-01,Line_4,A,Maintenance,49.6
+2025-01-01,Line_4,B,Operator Delay,39.4
+2025-01-01,Line_4,C,Maintenance,48.2
+2025-01-02,Line_1,A,Maintenance,63.5
+2025-01-02,Line_1,B,Operator Delay,34.8
+2025-01-02,Line_1,C,Material Shortage,30.0
+2025-01-02,Line_2,A,Material Shortage,6.8
+2025-01-02,Line_2,B,Operator Delay,27.0
+2025-01-02,Line_2,C,Quality Hold,31.2
+2025-01-02,Line_3,A,Material Shortage,41.5
+2025-01-02,Line_3,B,Changeover,81.6
+2025-01-02,Line_3,C,Maintenance,53.7
+2025-01-02,Line_4,A,Material Shortage,45.1
+2025-01-02,Line_4,B,Quality Hold,7.0
+2025-01-02,Line_4,C,Operator Delay,9.7
+2025-01-03,Line_1,A,Changeover,78.7
+2025-01-03,Line_1,B,Operator Delay,43.8
+2025-01-03,Line_1,C,Material Shortage,32.0
+2025-01-03,Line_2,A,Quality Hold,30.0
+2025-01-03,Line_2,B,Material Shortage,44.9
+2025-01-03,Line_2,C,Operator Delay,41.1
+2025-01-03,Line_3,A,Material Shortage,37.6
+2025-01-03,Line_3,B,Quality Hold,64.5
+2025-01-03,Line_3,C,Operator Delay,30.5
+2025-01-03,Line_4,A,Material Shortage,65.1
+2025-01-03,Line_4,B,Material Shortage,46.0
+2025-01-03,Line_4,C,Maintenance,41.4
+2025-01-04,Line_1,A,Material Shortage,39.5
+2025-01-04,Line_1,B,Material Shortage,45.2
+2025-01-04,Line_1,C,Changeover,48.6
+2025-01-04,Line_2,A,Operator Delay,22.2
+2025-01-04,Line_2,B,Material Shortage,19.4
+2025-01-04,Line_2,C,Maintenance,5.4
+2025-01-04,Line_3,A,Changeover,54.7
+2025-01-04,Line_3,B,Changeover,48.2
+2025-01-04,Line_3,C,Changeover,13.6
+2025-01-04,Line_4,A,Maintenance,45.7
+2025-01-04,Line_4,B,Maintenance,45.6
+2025-01-04,Line_4,C,Material Shortage,46.6
+2025-01-05,Line_1,A,Changeover,22.7
+2025-01-05,Line_1,B,Maintenance,49.3
+2025-01-05,Line_1,C,Changeover,12.8
+2025-01-05,Line_2,A,Changeover,71.3
+2025-01-05,Line_2,B,Material Shortage,8.5
+2025-01-05,Line_2,C,Maintenance,51.2
+2025-01-05,Line_3,A,Changeover,59.7
+2025-01-05,Line_3,B,Changeover,77.3
+2025-01-05,Line_3,C,Material Shortage,40.7
+2025-01-05,Line_4,A,Material Shortage,33.5
+2025-01-05,Line_4,B,Changeover,31.1
+2025-01-05,Line_4,C,Maintenance,31.3
+2025-01-06,Line_1,A,Quality Hold,25.9
+2025-01-06,Line_1,B,Operator Delay,55.2
+2025-01-06,Line_1,C,Quality Hold,25.2
+2025-01-06,Line_2,A,Maintenance,11.2
+2025-01-06,Line_2,B,Quality Hold,41.6
+2025-01-06,Line_2,C,Changeover,41.2
+2025-01-06,Line_3,A,Material Shortage,34.5
+2025-01-06,Line_3,B,Maintenance,52.1
+2025-01-06,Line_3,C,Operator Delay,27.5
+2025-01-06,Line_4,A,Changeover,35.1
+2025-01-06,Line_4,B,Operator Delay,25.5
+2025-01-06,Line_4,C,Material Shortage,3.7
+2025-01-07,Line_1,A,Maintenance,31.9
+2025-01-07,Line_1,B,Changeover,0.0
+2025-01-07,Line_1,C,Quality Hold,39.0
+2025-01-07,Line_2,A,Material Shortage,3.6
+2025-01-07,Line_2,B,Changeover,31.2
+2025-01-07,Line_2,C,Changeover,48.8
+2025-01-07,Line_3,A,Maintenance,50.4
+2025-01-07,Line_3,B,Changeover,36.7
+2025-01-07,Line_3,C,Maintenance,37.0
+2025-01-07,Line_4,A,Quality Hold,56.2
+2025-01-07,Line_4,B,Maintenance,20.3
+2025-01-07,Line_4,C,Quality Hold,48.0
+2025-01-08,Line_1,A,Quality Hold,19.2
+2025-01-08,Line_1,B,Maintenance,50.7
+2025-01-08,Line_1,C,Changeover,6.4
+2025-01-08,Line_2,A,Material Shortage,47.9
+2025-01-08,Line_2,B,Maintenance,40.4
+2025-01-08,Line_2,C,Material Shortage,37.2
+2025-01-08,Line_3,A,Maintenance,30.6
+2025-01-08,Line_3,B,Material Shortage,28.5
+2025-01-08,Line_3,C,Maintenance,30.1
+2025-01-08,Line_4,A,Changeover,35.8
+2025-01-08,Line_4,B,Quality Hold,21.0
+2025-01-08,Line_4,C,Operator Delay,28.5
+2025-01-09,Line_1,A,Changeover,43.1
+2025-01-09,Line_1,B,Quality Hold,36.3
+2025-01-09,Line_1,C,Material Shortage,29.2
+2025-01-09,Line_2,A,Quality Hold,34.1
+2025-01-09,Line_2,B,Changeover,58.3
+2025-01-09,Line_2,C,Operator Delay,17.1
+2025-01-09,Line_3,A,Material Shortage,34.7
+2025-01-09,Line_3,B,Changeover,31.2
+2025-01-09,Line_3,C,Quality Hold,31.9
+2025-01-09,Line_4,A,Maintenance,14.1
+2025-01-09,Line_4,B,Quality Hold,28.5
+2025-01-09,Line_4,C,Material Shortage,27.1
+2025-01-10,Line_1,A,Changeover,35.5
+2025-01-10,Line_1,B,Operator Delay,1.4
+2025-01-10,Line_1,C,Changeover,39.0
+2025-01-10,Line_2,A,Maintenance,53.7
+2025-01-10,Line_2,B,Material Shortage,37.3
+2025-01-10,Line_2,C,Changeover,23.4
+2025-01-10,Line_3,A,Quality Hold,11.3
+2025-01-10,Line_3,B,Changeover,71.0
+2025-01-10,Line_3,C,Quality Hold,34.6
+2025-01-10,Line_4,A,Changeover,72.0
+2025-01-10,Line_4,B,Maintenance,4.1
+2025-01-10,Line_4,C,Quality Hold,13.5
+2025-01-11,Line_1,A,Maintenance,20.8
+2025-01-11,Line_1,B,Quality Hold,57.1
+2025-01-11,Line_1,C,Changeover,23.2
+2025-01-11,Line_2,A,Changeover,18.9
+2025-01-11,Line_2,B,Quality Hold,36.7
+2025-01-11,Line_2,C,Maintenance,8.0
+2025-01-11,Line_3,A,Quality Hold,47.8
+2025-01-11,Line_3,B,Maintenance,7.6
+2025-01-11,Line_3,C,Changeover,35.7
+2025-01-11,Line_4,A,Maintenance,34.4
+2025-01-11,Line_4,B,Changeover,17.5
+2025-01-11,Line_4,C,Material Shortage,49.3
+2025-01-12,Line_1,A,Quality Hold,39.6
+2025-01-12,Line_1,B,Operator Delay,20.7
+2025-01-12,Line_1,C,Maintenance,57.1
+2025-01-12,Line_2,A,Maintenance,47.7
+2025-01-12,Line_2,B,Changeover,24.2
+2025-01-12,Line_2,C,Operator Delay,27.3
+2025-01-12,Line_3,A,Material Shortage,39.6
+2025-01-12,Line_3,B,Quality Hold,72.0
+2025-01-12,Line_3,C,Operator Delay,21.1
+2025-01-12,Line_4,A,Operator Delay,35.0
+2025-01-12,Line_4,B,Quality Hold,43.0
+2025-01-12,Line_4,C,Quality Hold,13.4
+2025-01-13,Line_1,A,Changeover,44.7
+2025-01-13,Line_1,B,Operator Delay,13.0
+2025-01-13,Line_1,C,Changeover,6.5
+2025-01-13,Line_2,A,Material Shortage,57.1
+2025-01-13,Line_2,B,Maintenance,19.6
+2025-01-13,Line_2,C,Maintenance,28.5
+2025-01-13,Line_3,A,Quality Hold,37.9
+2025-01-13,Line_3,B,Material Shortage,24.3
+2025-01-13,Line_3,C,Quality Hold,58.5
+2025-01-13,Line_4,A,Quality Hold,33.6
+2025-01-13,Line_4,B,Maintenance,55.4
+2025-01-13,Line_4,C,Material Shortage,44.2
+2025-01-14,Line_1,A,Maintenance,28.4
+2025-01-14,Line_1,B,Operator Delay,49.9
+2025-01-14,Line_1,C,Maintenance,65.7
+2025-01-14,Line_2,A,Quality Hold,58.0
+2025-01-14,Line_2,B,Changeover,22.7
+2025-01-14,Line_2,C,Material Shortage,37.1
+2025-01-14,Line_3,A,Maintenance,48.4
+2025-01-14,Line_3,B,Changeover,23.5
+2025-01-14,Line_3,C,Operator Delay,13.8
+2025-01-14,Line_4,A,Quality Hold,29.1
+2025-01-14,Line_4,B,Operator Delay,7.4
+2025-01-14,Line_4,C,Operator Delay,28.8
+2025-01-15,Line_1,A,Material Shortage,47.6
+2025-01-15,Line_1,B,Operator Delay,33.1
+2025-01-15,Line_1,C,Operator Delay,17.6
+2025-01-15,Line_2,A,Changeover,44.3
+2025-01-15,Line_2,B,Operator Delay,31.2
+2025-01-15,Line_2,C,Changeover,7.5
+2025-01-15,Line_3,A,Operator Delay,67.3
+2025-01-15,Line_3,B,Quality Hold,23.7
+2025-01-15,Line_3,C,Quality Hold,30.3
+2025-01-15,Line_4,A,Operator Delay,30.5
+2025-01-15,Line_4,B,Maintenance,52.4
+2025-01-15,Line_4,C,Changeover,33.2
+2025-01-16,Line_1,A,Maintenance,30.9
+2025-01-16,Line_1,B,Maintenance,30.3
+2025-01-16,Line_1,C,Quality Hold,59.7
+2025-01-16,Line_2,A,Changeover,6.4
+2025-01-16,Line_2,B,Quality Hold,28.1
+2025-01-16,Line_2,C,Changeover,86.3
+2025-01-16,Line_3,A,Maintenance,38.7
+2025-01-16,Line_3,B,Changeover,3.1
+2025-01-16,Line_3,C,Maintenance,14.9
+2025-01-16,Line_4,A,Changeover,50.8
+2025-01-16,Line_4,B,Material Shortage,20.6
+2025-01-16,Line_4,C,Quality Hold,14.6
+2025-01-17,Line_1,A,Material Shortage,48.7
+2025-01-17,Line_1,B,Changeover,29.0
+2025-01-17,Line_1,C,Changeover,71.6
+2025-01-17,Line_2,A,Operator Delay,48.4
+2025-01-17,Line_2,B,Quality Hold,13.2
+2025-01-17,Line_2,C,Maintenance,51.2
+2025-01-17,Line_3,A,Material Shortage,47.1
+2025-01-17,Line_3,B,Maintenance,42.9
+2025-01-17,Line_3,C,Maintenance,19.2
+2025-01-17,Line_4,A,Quality Hold,54.3
+2025-01-17,Line_4,B,Changeover,33.8
+2025-01-17,Line_4,C,Maintenance,20.8
+2025-01-18,Line_1,A,Changeover,60.1
+2025-01-18,Line_1,B,Maintenance,47.9
+2025-01-18,Line_1,C,Maintenance,33.9
+2025-01-18,Line_2,A,Maintenance,46.1
+2025-01-18,Line_2,B,Operator Delay,43.9
+2025-01-18,Line_2,C,Changeover,11.9
+2025-01-18,Line_3,A,Changeover,0.0
+2025-01-18,Line_3,B,Operator Delay,44.1
+2025-01-18,Line_3,C,Maintenance,48.1
+2025-01-18,Line_4,A,Operator Delay,0.0
+2025-01-18,Line_4,B,Changeover,45.6
+2025-01-18,Line_4,C,Operator Delay,40.7
+2025-01-19,Line_1,A,Maintenance,52.5
+2025-01-19,Line_1,B,Maintenance,11.9
+2025-01-19,Line_1,C,Maintenance,28.4
+2025-01-19,Line_2,A,Material Shortage,36.5
+2025-01-19,Line_2,B,Quality Hold,31.0
+2025-01-19,Line_2,C,Changeover,25.6
+2025-01-19,Line_3,A,Quality Hold,25.1
+2025-01-19,Line_3,B,Operator Delay,5.0
+2025-01-19,Line_3,C,Quality Hold,26.2
+2025-01-19,Line_4,A,Operator Delay,29.9
+2025-01-19,Line_4,B,Operator Delay,49.1
+2025-01-19,Line_4,C,Changeover,24.3
+2025-01-20,Line_1,A,Operator Delay,46.4
+2025-01-20,Line_1,B,Material Shortage,39.5
+2025-01-20,Line_1,C,Maintenance,40.6
+2025-01-20,Line_2,A,Maintenance,22.9
+2025-01-20,Line_2,B,Changeover,36.9
+2025-01-20,Line_2,C,Maintenance,57.0
+2025-01-20,Line_3,A,Maintenance,15.1
+2025-01-20,Line_3,B,Changeover,30.4
+2025-01-20,Line_3,C,Changeover,51.1
+2025-01-20,Line_4,A,Material Shortage,33.5
+2025-01-20,Line_4,B,Quality Hold,40.6
+2025-01-20,Line_4,C,Quality Hold,45.9
+2025-01-21,Line_1,A,Operator Delay,5.9
+2025-01-21,Line_1,B,Maintenance,43.6
+2025-01-21,Line_1,C,Quality Hold,31.8
+2025-01-21,Line_2,A,Quality Hold,0.0
+2025-01-21,Line_2,B,Maintenance,29.5
+2025-01-21,Line_2,C,Changeover,33.9
+2025-01-21,Line_3,A,Quality Hold,44.4
+2025-01-21,Line_3,B,Operator Delay,33.9
+2025-01-21,Line_3,C,Maintenance,28.4
+2025-01-21,Line_4,A,Maintenance,36.9
+2025-01-21,Line_4,B,Material Shortage,49.6
+2025-01-21,Line_4,C,Changeover,17.7
+2025-01-22,Line_1,A,Maintenance,1.5
+2025-01-22,Line_1,B,Changeover,55.9
+2025-01-22,Line_1,C,Operator Delay,22.3
+2025-01-22,Line_2,A,Quality Hold,40.7
+2025-01-22,Line_2,B,Quality Hold,25.9
+2025-01-22,Line_2,C,Material Shortage,50.2
+2025-01-22,Line_3,A,Quality Hold,34.6
+2025-01-22,Line_3,B,Material Shortage,16.1
+2025-01-22,Line_3,C,Operator Delay,45.1
+2025-01-22,Line_4,A,Changeover,18.0
+2025-01-22,Line_4,B,Quality Hold,43.1
+2025-01-22,Line_4,C,Maintenance,55.1
+2025-01-23,Line_1,A,Changeover,30.9
+2025-01-23,Line_1,B,Changeover,21.2
+2025-01-23,Line_1,C,Maintenance,36.6
+2025-01-23,Line_2,A,Maintenance,47.6
+2025-01-23,Line_2,B,Changeover,47.4
+2025-01-23,Line_2,C,Material Shortage,47.2
+2025-01-23,Line_3,A,Maintenance,14.9
+2025-01-23,Line_3,B,Maintenance,32.4
+2025-01-23,Line_3,C,Changeover,61.3
+2025-01-23,Line_4,A,Changeover,39.3
+2025-01-23,Line_4,B,Maintenance,53.7
+2025-01-23,Line_4,C,Changeover,54.0
+2025-01-24,Line_1,A,Maintenance,87.8
+2025-01-24,Line_1,B,Maintenance,51.6
+2025-01-24,Line_1,C,Maintenance,38.7
+2025-01-24,Line_2,A,Quality Hold,31.8
+2025-01-24,Line_2,B,Operator Delay,72.2
+2025-01-24,Line_2,C,Material Shortage,34.8
+2025-01-24,Line_3,A,Maintenance,35.0
+2025-01-24,Line_3,B,Maintenance,36.3
+2025-01-24,Line_3,C,Changeover,30.5
+2025-01-24,Line_4,A,Maintenance,35.2
+2025-01-24,Line_4,B,Quality Hold,15.2
+2025-01-24,Line_4,C,Maintenance,22.4
+2025-01-25,Line_1,A,Maintenance,23.8
+2025-01-25,Line_1,B,Operator Delay,9.2
+2025-01-25,Line_1,C,Material Shortage,0.0
+2025-01-25,Line_2,A,Changeover,33.0
+2025-01-25,Line_2,B,Changeover,34.9
+2025-01-25,Line_2,C,Operator Delay,27.2
+2025-01-25,Line_3,A,Changeover,41.9
+2025-01-25,Line_3,B,Quality Hold,49.4
+2025-01-25,Line_3,C,Maintenance,35.2
+2025-01-25,Line_4,A,Quality Hold,43.6
+2025-01-25,Line_4,B,Material Shortage,41.8
+2025-01-25,Line_4,C,Operator Delay,46.9
+2025-01-26,Line_1,A,Maintenance,42.4
+2025-01-26,Line_1,B,Operator Delay,13.5
+2025-01-26,Line_1,C,Material Shortage,34.1
+2025-01-26,Line_2,A,Changeover,20.3
+2025-01-26,Line_2,B,Changeover,32.9
+2025-01-26,Line_2,C,Maintenance,50.3
+2025-01-26,Line_3,A,Operator Delay,34.3
+2025-01-26,Line_3,B,Maintenance,71.8
+2025-01-26,Line_3,C,Changeover,19.5
+2025-01-26,Line_4,A,Maintenance,32.9
+2025-01-26,Line_4,B,Maintenance,27.2
+2025-01-26,Line_4,C,Material Shortage,81.1
+2025-01-27,Line_1,A,Quality Hold,39.5
+2025-01-27,Line_1,B,Changeover,55.7
+2025-01-27,Line_1,C,Material Shortage,58.3
+2025-01-27,Line_2,A,Material Shortage,54.5
+2025-01-27,Line_2,B,Changeover,56.9
+2025-01-27,Line_2,C,Material Shortage,25.9
+2025-01-27,Line_3,A,Changeover,36.7
+2025-01-27,Line_3,B,Changeover,28.8
+2025-01-27,Line_3,C,Operator Delay,26.9
+2025-01-27,Line_4,A,Changeover,49.4
+2025-01-27,Line_4,B,Material Shortage,40.8
+2025-01-27,Line_4,C,Changeover,65.8
+2025-01-28,Line_1,A,Maintenance,0.0
+2025-01-28,Line_1,B,Changeover,22.8
+2025-01-28,Line_1,C,Quality Hold,0.0
+2025-01-28,Line_2,A,Quality Hold,0.0
+2025-01-28,Line_2,B,Material Shortage,61.9
+2025-01-28,Line_2,C,Changeover,37.3
+2025-01-28,Line_3,A,Changeover,24.0
+2025-01-28,Line_3,B,Operator Delay,57.0
+2025-01-28,Line_3,C,Quality Hold,48.8
+2025-01-28,Line_4,A,Changeover,45.0
+2025-01-28,Line_4,B,Maintenance,40.9
+2025-01-28,Line_4,C,Material Shortage,3.9
+2025-01-29,Line_1,A,Quality Hold,59.6
+2025-01-29,Line_1,B,Quality Hold,20.6
+2025-01-29,Line_1,C,Changeover,73.1
+2025-01-29,Line_2,A,Changeover,52.4
+2025-01-29,Line_2,B,Maintenance,49.9
+2025-01-29,Line_2,C,Operator Delay,79.8
+2025-01-29,Line_3,A,Changeover,60.3
+2025-01-29,Line_3,B,Material Shortage,46.5
+2025-01-29,Line_3,C,Material Shortage,18.7
+2025-01-29,Line_4,A,Quality Hold,20.3
+2025-01-29,Line_4,B,Maintenance,31.2
+2025-01-29,Line_4,C,Quality Hold,18.7
+2025-01-30,Line_1,A,Changeover,0.0
+2025-01-30,Line_1,B,Material Shortage,35.1
+2025-01-30,Line_1,C,Maintenance,49.9
+2025-01-30,Line_2,A,Quality Hold,46.9
+2025-01-30,Line_2,B,Changeover,39.9
+2025-01-30,Line_2,C,Quality Hold,70.8
+2025-01-30,Line_3,A,Changeover,56.4
+2025-01-30,Line_3,B,Maintenance,17.6
+2025-01-30,Line_3,C,Maintenance,35.8
+2025-01-30,Line_4,A,Maintenance,27.0
+2025-01-30,Line_4,B,Maintenance,72.6
+2025-01-30,Line_4,C,Maintenance,33.1
+2025-01-31,Line_1,A,Material Shortage,14.9
+2025-01-31,Line_1,B,Operator Delay,44.8
+2025-01-31,Line_1,C,Maintenance,15.1
+2025-01-31,Line_2,A,Maintenance,23.0
+2025-01-31,Line_2,B,Material Shortage,26.7
+2025-01-31,Line_2,C,Maintenance,64.7
+2025-01-31,Line_3,A,Changeover,41.1
+2025-01-31,Line_3,B,Material Shortage,51.8
+2025-01-31,Line_3,C,Operator Delay,42.9
+2025-01-31,Line_4,A,Changeover,67.8
+2025-01-31,Line_4,B,Quality Hold,42.9
+2025-01-31,Line_4,C,Quality Hold,6.9
+2025-02-01,Line_1,A,Maintenance,65.4
+2025-02-01,Line_1,B,Changeover,34.3
+2025-02-01,Line_1,C,Material Shortage,0.0
+2025-02-01,Line_2,A,Changeover,33.8
+2025-02-01,Line_2,B,Quality Hold,49.9
+2025-02-01,Line_2,C,Maintenance,25.5
+2025-02-01,Line_3,A,Maintenance,72.6
+2025-02-01,Line_3,B,Quality Hold,57.4
+2025-02-01,Line_3,C,Changeover,43.5
+2025-02-01,Line_4,A,Maintenance,56.9
+2025-02-01,Line_4,B,Maintenance,39.4
+2025-02-01,Line_4,C,Operator Delay,26.6
+2025-02-02,Line_1,A,Operator Delay,25.9
+2025-02-02,Line_1,B,Operator Delay,47.2
+2025-02-02,Line_1,C,Maintenance,23.9
+2025-02-02,Line_2,A,Changeover,48.8
+2025-02-02,Line_2,B,Quality Hold,27.9
+2025-02-02,Line_2,C,Maintenance,37.6
+2025-02-02,Line_3,A,Quality Hold,50.2
+2025-02-02,Line_3,B,Changeover,40.7
+2025-02-02,Line_3,C,Quality Hold,24.2
+2025-02-02,Line_4,A,Quality Hold,19.2
+2025-02-02,Line_4,B,Maintenance,25.9
+2025-02-02,Line_4,C,Changeover,53.8
+2025-02-03,Line_1,A,Changeover,35.7
+2025-02-03,Line_1,B,Changeover,49.1
+2025-02-03,Line_1,C,Operator Delay,49.5
+2025-02-03,Line_2,A,Quality Hold,62.0
+2025-02-03,Line_2,B,Changeover,31.2
+2025-02-03,Line_2,C,Changeover,47.1
+2025-02-03,Line_3,A,Maintenance,24.1
+2025-02-03,Line_3,B,Maintenance,56.3
+2025-02-03,Line_3,C,Quality Hold,22.6
+2025-02-03,Line_4,A,Operator Delay,57.9
+2025-02-03,Line_4,B,Changeover,17.6
+2025-02-03,Line_4,C,Changeover,18.2
+2025-02-04,Line_1,A,Changeover,37.5
+2025-02-04,Line_1,B,Maintenance,16.7
+2025-02-04,Line_1,C,Changeover,76.0
+2025-02-04,Line_2,A,Material Shortage,36.1
+2025-02-04,Line_2,B,Material Shortage,27.2
+2025-02-04,Line_2,C,Material Shortage,21.1
+2025-02-04,Line_3,A,Quality Hold,24.8
+2025-02-04,Line_3,B,Maintenance,15.9
+2025-02-04,Line_3,C,Quality Hold,64.4
+2025-02-04,Line_4,A,Operator Delay,18.1
+2025-02-04,Line_4,B,Material Shortage,16.9
+2025-02-04,Line_4,C,Changeover,50.3
+2025-02-05,Line_1,A,Operator Delay,59.0
+2025-02-05,Line_1,B,Material Shortage,26.4
+2025-02-05,Line_1,C,Maintenance,56.2
+2025-02-05,Line_2,A,Quality Hold,24.4
+2025-02-05,Line_2,B,Changeover,37.2
+2025-02-05,Line_2,C,Changeover,59.6
+2025-02-05,Line_3,A,Maintenance,43.3
+2025-02-05,Line_3,B,Material Shortage,24.7
+2025-02-05,Line_3,C,Material Shortage,32.7
+2025-02-05,Line_4,A,Quality Hold,40.7
+2025-02-05,Line_4,B,Quality Hold,0.0
+2025-02-05,Line_4,C,Material Shortage,15.6
+2025-02-06,Line_1,A,Maintenance,47.8
+2025-02-06,Line_1,B,Material Shortage,27.5
+2025-02-06,Line_1,C,Maintenance,0.0
+2025-02-06,Line_2,A,Operator Delay,58.4
+2025-02-06,Line_2,B,Material Shortage,12.0
+2025-02-06,Line_2,C,Changeover,33.1
+2025-02-06,Line_3,A,Changeover,46.2
+2025-02-06,Line_3,B,Maintenance,55.2
+2025-02-06,Line_3,C,Quality Hold,38.5
+2025-02-06,Line_4,A,Material Shortage,15.1
+2025-02-06,Line_4,B,Quality Hold,31.4
+2025-02-06,Line_4,C,Quality Hold,61.2
+2025-02-07,Line_1,A,Operator Delay,18.7
+2025-02-07,Line_1,B,Maintenance,11.0
+2025-02-07,Line_1,C,Maintenance,58.4
+2025-02-07,Line_2,A,Material Shortage,23.1
+2025-02-07,Line_2,B,Material Shortage,7.2
+2025-02-07,Line_2,C,Changeover,38.0
+2025-02-07,Line_3,A,Quality Hold,43.5
+2025-02-07,Line_3,B,Quality Hold,33.1
+2025-02-07,Line_3,C,Material Shortage,41.9
+2025-02-07,Line_4,A,Changeover,49.9
+2025-02-07,Line_4,B,Material Shortage,49.3
+2025-02-07,Line_4,C,Operator Delay,11.6
+2025-02-08,Line_1,A,Quality Hold,42.5
+2025-02-08,Line_1,B,Maintenance,59.4
+2025-02-08,Line_1,C,Maintenance,36.1
+2025-02-08,Line_2,A,Operator Delay,54.8
+2025-02-08,Line_2,B,Changeover,10.3
+2025-02-08,Line_2,C,Changeover,21.3
+2025-02-08,Line_3,A,Material Shortage,60.5
+2025-02-08,Line_3,B,Operator Delay,40.2
+2025-02-08,Line_3,C,Quality Hold,38.8
+2025-02-08,Line_4,A,Changeover,48.8
+2025-02-08,Line_4,B,Operator Delay,21.1
+2025-02-08,Line_4,C,Changeover,45.1
+2025-02-09,Line_1,A,Quality Hold,12.0
+2025-02-09,Line_1,B,Quality Hold,54.2
+2025-02-09,Line_1,C,Changeover,16.4
+2025-02-09,Line_2,A,Material Shortage,19.7
+2025-02-09,Line_2,B,Quality Hold,55.7
+2025-02-09,Line_2,C,Maintenance,18.1
+2025-02-09,Line_3,A,Material Shortage,46.3
+2025-02-09,Line_3,B,Changeover,12.3
+2025-02-09,Line_3,C,Material Shortage,7.7
+2025-02-09,Line_4,A,Maintenance,16.9
+2025-02-09,Line_4,B,Quality Hold,0.2
+2025-02-09,Line_4,C,Quality Hold,37.9
+2025-02-10,Line_1,A,Changeover,40.5
+2025-02-10,Line_1,B,Quality Hold,35.0
+2025-02-10,Line_1,C,Material Shortage,22.6
+2025-02-10,Line_2,A,Operator Delay,48.8
+2025-02-10,Line_2,B,Material Shortage,29.3
+2025-02-10,Line_2,C,Changeover,26.0
+2025-02-10,Line_3,A,Maintenance,51.4
+2025-02-10,Line_3,B,Quality Hold,78.5
+2025-02-10,Line_3,C,Quality Hold,9.0
+2025-02-10,Line_4,A,Material Shortage,55.1
+2025-02-10,Line_4,B,Material Shortage,23.0
+2025-02-10,Line_4,C,Material Shortage,72.8
+2025-02-11,Line_1,A,Maintenance,18.8
+2025-02-11,Line_1,B,Material Shortage,47.7
+2025-02-11,Line_1,C,Changeover,18.3
+2025-02-11,Line_2,A,Changeover,34.7
+2025-02-11,Line_2,B,Operator Delay,34.5
+2025-02-11,Line_2,C,Changeover,51.3
+2025-02-11,Line_3,A,Operator Delay,50.6
+2025-02-11,Line_3,B,Changeover,25.9
+2025-02-11,Line_3,C,Changeover,33.0
+2025-02-11,Line_4,A,Maintenance,27.1
+2025-02-11,Line_4,B,Quality Hold,25.6
+2025-02-11,Line_4,C,Changeover,0.0
+2025-02-12,Line_1,A,Changeover,33.5
+2025-02-12,Line_1,B,Changeover,36.3
+2025-02-12,Line_1,C,Material Shortage,38.2
+2025-02-12,Line_2,A,Operator Delay,22.3
+2025-02-12,Line_2,B,Maintenance,25.3
+2025-02-12,Line_2,C,Changeover,36.1
+2025-02-12,Line_3,A,Quality Hold,39.9
+2025-02-12,Line_3,B,Maintenance,28.5
+2025-02-12,Line_3,C,Maintenance,33.5
+2025-02-12,Line_4,A,Material Shortage,42.6
+2025-02-12,Line_4,B,Operator Delay,14.4
+2025-02-12,Line_4,C,Quality Hold,25.6
+2025-02-13,Line_1,A,Quality Hold,32.2
+2025-02-13,Line_1,B,Quality Hold,44.5
+2025-02-13,Line_1,C,Material Shortage,41.7
+2025-02-13,Line_2,A,Material Shortage,29.8
+2025-02-13,Line_2,B,Quality Hold,55.5
+2025-02-13,Line_2,C,Changeover,32.6
+2025-02-13,Line_3,A,Operator Delay,43.4
+2025-02-13,Line_3,B,Operator Delay,45.5
+2025-02-13,Line_3,C,Maintenance,7.5
+2025-02-13,Line_4,A,Maintenance,10.8
+2025-02-13,Line_4,B,Maintenance,20.1
+2025-02-13,Line_4,C,Quality Hold,25.2
+2025-02-14,Line_1,A,Changeover,66.4
+2025-02-14,Line_1,B,Quality Hold,58.0
+2025-02-14,Line_1,C,Quality Hold,7.1
+2025-02-14,Line_2,A,Changeover,12.7
+2025-02-14,Line_2,B,Quality Hold,11.1
+2025-02-14,Line_2,C,Operator Delay,46.4
+2025-02-14,Line_3,A,Operator Delay,7.2
+2025-02-14,Line_3,B,Material Shortage,59.7
+2025-02-14,Line_3,C,Material Shortage,8.0
+2025-02-14,Line_4,A,Quality Hold,27.9
+2025-02-14,Line_4,B,Changeover,31.4
+2025-02-14,Line_4,C,Quality Hold,52.5
+2025-02-15,Line_1,A,Operator Delay,22.4
+2025-02-15,Line_1,B,Material Shortage,29.7
+2025-02-15,Line_1,C,Changeover,46.4
+2025-02-15,Line_2,A,Material Shortage,18.3
+2025-02-15,Line_2,B,Quality Hold,35.3
+2025-02-15,Line_2,C,Maintenance,16.2
+2025-02-15,Line_3,A,Maintenance,45.6
+2025-02-15,Line_3,B,Maintenance,50.2
+2025-02-15,Line_3,C,Maintenance,63.4
+2025-02-15,Line_4,A,Quality Hold,36.2
+2025-02-15,Line_4,B,Quality Hold,46.1
+2025-02-15,Line_4,C,Maintenance,33.1
+2025-02-16,Line_1,A,Maintenance,22.0
+2025-02-16,Line_1,B,Quality Hold,24.4
+2025-02-16,Line_1,C,Operator Delay,61.1
+2025-02-16,Line_2,A,Material Shortage,50.1
+2025-02-16,Line_2,B,Changeover,41.3
+2025-02-16,Line_2,C,Changeover,19.6
+2025-02-16,Line_3,A,Maintenance,82.5
+2025-02-16,Line_3,B,Operator Delay,20.0
+2025-02-16,Line_3,C,Operator Delay,51.7
+2025-02-16,Line_4,A,Changeover,14.0
+2025-02-16,Line_4,B,Material Shortage,42.6
+2025-02-16,Line_4,C,Material Shortage,59.5
+2025-02-17,Line_1,A,Quality Hold,48.4
+2025-02-17,Line_1,B,Maintenance,47.5
+2025-02-17,Line_1,C,Changeover,28.1
+2025-02-17,Line_2,A,Changeover,17.1
+2025-02-17,Line_2,B,Quality Hold,50.7
+2025-02-17,Line_2,C,Operator Delay,40.9
+2025-02-17,Line_3,A,Maintenance,53.2
+2025-02-17,Line_3,B,Maintenance,34.5
+2025-02-17,Line_3,C,Quality Hold,38.0
+2025-02-17,Line_4,A,Changeover,44.4
+2025-02-17,Line_4,B,Quality Hold,31.3
+2025-02-17,Line_4,C,Changeover,30.3
+2025-02-18,Line_1,A,Maintenance,29.0
+2025-02-18,Line_1,B,Changeover,33.3
+2025-02-18,Line_1,C,Operator Delay,24.5
+2025-02-18,Line_2,A,Changeover,12.4
+2025-02-18,Line_2,B,Material Shortage,30.7
+2025-02-18,Line_2,C,Maintenance,35.4
+2025-02-18,Line_3,A,Quality Hold,33.6
+2025-02-18,Line_3,B,Changeover,27.4
+2025-02-18,Line_3,C,Quality Hold,36.1
+2025-02-18,Line_4,A,Changeover,56.0
+2025-02-18,Line_4,B,Operator Delay,19.2
+2025-02-18,Line_4,C,Maintenance,40.7
+2025-02-19,Line_1,A,Operator Delay,15.7
+2025-02-19,Line_1,B,Changeover,46.5
+2025-02-19,Line_1,C,Material Shortage,45.6
+2025-02-19,Line_2,A,Quality Hold,66.8
+2025-02-19,Line_2,B,Operator Delay,22.4
+2025-02-19,Line_2,C,Maintenance,19.6
+2025-02-19,Line_3,A,Changeover,42.0
+2025-02-19,Line_3,B,Operator Delay,56.2
+2025-02-19,Line_3,C,Quality Hold,0.0
+2025-02-19,Line_4,A,Operator Delay,26.5
+2025-02-19,Line_4,B,Maintenance,33.9
+2025-02-19,Line_4,C,Material Shortage,18.0
+2025-02-20,Line_1,A,Changeover,43.5
+2025-02-20,Line_1,B,Maintenance,0.0
+2025-02-20,Line_1,C,Changeover,69.8
+2025-02-20,Line_2,A,Maintenance,24.7
+2025-02-20,Line_2,B,Quality Hold,27.7
+2025-02-20,Line_2,C,Material Shortage,42.5
+2025-02-20,Line_3,A,Operator Delay,26.7
+2025-02-20,Line_3,B,Material Shortage,45.4
+2025-02-20,Line_3,C,Maintenance,43.6
+2025-02-20,Line_4,A,Quality Hold,30.0
+2025-02-20,Line_4,B,Maintenance,47.5
+2025-02-20,Line_4,C,Maintenance,39.9
+2025-02-21,Line_1,A,Material Shortage,64.1
+2025-02-21,Line_1,B,Changeover,50.2
+2025-02-21,Line_1,C,Changeover,68.1
+2025-02-21,Line_2,A,Maintenance,32.5
+2025-02-21,Line_2,B,Changeover,2.8
+2025-02-21,Line_2,C,Material Shortage,40.0
+2025-02-21,Line_3,A,Material Shortage,41.4
+2025-02-21,Line_3,B,Material Shortage,49.7
+2025-02-21,Line_3,C,Operator Delay,39.3
+2025-02-21,Line_4,A,Maintenance,49.5
+2025-02-21,Line_4,B,Quality Hold,36.2
+2025-02-21,Line_4,C,Quality Hold,38.8
+2025-02-22,Line_1,A,Quality Hold,66.4
+2025-02-22,Line_1,B,Quality Hold,60.5
+2025-02-22,Line_1,C,Changeover,41.7
+2025-02-22,Line_2,A,Quality Hold,37.6
+2025-02-22,Line_2,B,Operator Delay,32.5
+2025-02-22,Line_2,C,Changeover,39.3
+2025-02-22,Line_3,A,Quality Hold,23.3
+2025-02-22,Line_3,B,Quality Hold,8.3
+2025-02-22,Line_3,C,Quality Hold,33.2
+2025-02-22,Line_4,A,Operator Delay,16.0
+2025-02-22,Line_4,B,Maintenance,66.8
+2025-02-22,Line_4,C,Quality Hold,52.2
+2025-02-23,Line_1,A,Maintenance,40.4
+2025-02-23,Line_1,B,Material Shortage,51.8
+2025-02-23,Line_1,C,Changeover,5.7
+2025-02-23,Line_2,A,Changeover,24.6
+2025-02-23,Line_2,B,Maintenance,51.2
+2025-02-23,Line_2,C,Quality Hold,30.0
+2025-02-23,Line_3,A,Quality Hold,57.6
+2025-02-23,Line_3,B,Changeover,26.2
+2025-02-23,Line_3,C,Maintenance,12.4
+2025-02-23,Line_4,A,Quality Hold,59.3
+2025-02-23,Line_4,B,Quality Hold,7.2
+2025-02-23,Line_4,C,Material Shortage,36.3
+2025-02-24,Line_1,A,Maintenance,6.1
+2025-02-24,Line_1,B,Maintenance,25.7
+2025-02-24,Line_1,C,Maintenance,18.7
+2025-02-24,Line_2,A,Quality Hold,51.7
+2025-02-24,Line_2,B,Maintenance,52.9
+2025-02-24,Line_2,C,Quality Hold,26.2
+2025-02-24,Line_3,A,Maintenance,58.2
+2025-02-24,Line_3,B,Operator Delay,34.1
+2025-02-24,Line_3,C,Quality Hold,0.1
+2025-02-24,Line_4,A,Operator Delay,33.3
+2025-02-24,Line_4,B,Quality Hold,54.8
+2025-02-24,Line_4,C,Changeover,38.7
+2025-02-25,Line_1,A,Changeover,37.3
+2025-02-25,Line_1,B,Changeover,51.5
+2025-02-25,Line_1,C,Changeover,29.0
+2025-02-25,Line_2,A,Quality Hold,37.3
+2025-02-25,Line_2,B,Maintenance,46.3
+2025-02-25,Line_2,C,Changeover,59.4
+2025-02-25,Line_3,A,Operator Delay,24.7
+2025-02-25,Line_3,B,Changeover,38.3
+2025-02-25,Line_3,C,Quality Hold,29.9
+2025-02-25,Line_4,A,Quality Hold,14.8
+2025-02-25,Line_4,B,Changeover,20.1
+2025-02-25,Line_4,C,Material Shortage,15.8
+2025-02-26,Line_1,A,Maintenance,42.1
+2025-02-26,Line_1,B,Changeover,31.5
+2025-02-26,Line_1,C,Maintenance,17.5
+2025-02-26,Line_2,A,Changeover,58.5
+2025-02-26,Line_2,B,Maintenance,34.5
+2025-02-26,Line_2,C,Operator Delay,24.1
+2025-02-26,Line_3,A,Quality Hold,31.4
+2025-02-26,Line_3,B,Maintenance,49.6
+2025-02-26,Line_3,C,Maintenance,67.3
+2025-02-26,Line_4,A,Changeover,20.8
+2025-02-26,Line_4,B,Maintenance,34.8
+2025-02-26,Line_4,C,Maintenance,35.8
+2025-02-27,Line_1,A,Changeover,42.6
+2025-02-27,Line_1,B,Material Shortage,34.4
+2025-02-27,Line_1,C,Quality Hold,40.7
+2025-02-27,Line_2,A,Changeover,11.5
+2025-02-27,Line_2,B,Material Shortage,17.6
+2025-02-27,Line_2,C,Quality Hold,32.5
+2025-02-27,Line_3,A,Maintenance,52.1
+2025-02-27,Line_3,B,Operator Delay,40.6
+2025-02-27,Line_3,C,Material Shortage,53.9
+2025-02-27,Line_4,A,Quality Hold,0.0
+2025-02-27,Line_4,B,Quality Hold,56.7
+2025-02-27,Line_4,C,Quality Hold,46.8
+2025-02-28,Line_1,A,Maintenance,81.4
+2025-02-28,Line_1,B,Quality Hold,59.8
+2025-02-28,Line_1,C,Changeover,52.3
+2025-02-28,Line_2,A,Changeover,39.9
+2025-02-28,Line_2,B,Quality Hold,24.0
+2025-02-28,Line_2,C,Changeover,34.8
+2025-02-28,Line_3,A,Maintenance,3.3
+2025-02-28,Line_3,B,Changeover,35.0
+2025-02-28,Line_3,C,Quality Hold,77.9
+2025-02-28,Line_4,A,Changeover,0.0
+2025-02-28,Line_4,B,Operator Delay,28.4
+2025-02-28,Line_4,C,Changeover,49.8
+2025-03-01,Line_1,A,Maintenance,59.7
+2025-03-01,Line_1,B,Operator Delay,3.3
+2025-03-01,Line_1,C,Material Shortage,53.7
+2025-03-01,Line_2,A,Maintenance,32.6
+2025-03-01,Line_2,B,Quality Hold,17.3
+2025-03-01,Line_2,C,Quality Hold,35.0
+2025-03-01,Line_3,A,Quality Hold,56.8
+2025-03-01,Line_3,B,Changeover,1.1
+2025-03-01,Line_3,C,Material Shortage,47.0
+2025-03-01,Line_4,A,Quality Hold,23.7
+2025-03-01,Line_4,B,Operator Delay,56.2
+2025-03-01,Line_4,C,Operator Delay,41.9
+2025-03-02,Line_1,A,Material Shortage,35.5
+2025-03-02,Line_1,B,Quality Hold,21.9
+2025-03-02,Line_1,C,Maintenance,39.4
+2025-03-02,Line_2,A,Material Shortage,15.3
+2025-03-02,Line_2,B,Operator Delay,17.0
+2025-03-02,Line_2,C,Material Shortage,24.5
+2025-03-02,Line_3,A,Quality Hold,59.9
+2025-03-02,Line_3,B,Maintenance,51.1
+2025-03-02,Line_3,C,Operator Delay,46.0
+2025-03-02,Line_4,A,Quality Hold,36.2
+2025-03-02,Line_4,B,Changeover,22.3
+2025-03-02,Line_4,C,Material Shortage,53.2
+2025-03-03,Line_1,A,Changeover,13.7
+2025-03-03,Line_1,B,Material Shortage,27.7
+2025-03-03,Line_1,C,Maintenance,39.1
+2025-03-03,Line_2,A,Changeover,44.4
+2025-03-03,Line_2,B,Material Shortage,46.0
+2025-03-03,Line_2,C,Material Shortage,36.4
+2025-03-03,Line_3,A,Operator Delay,41.0
+2025-03-03,Line_3,B,Material Shortage,52.4
+2025-03-03,Line_3,C,Quality Hold,60.1
+2025-03-03,Line_4,A,Material Shortage,9.6
+2025-03-03,Line_4,B,Maintenance,35.8
+2025-03-03,Line_4,C,Changeover,37.5
+2025-03-04,Line_1,A,Maintenance,4.7
+2025-03-04,Line_1,B,Quality Hold,6.4
+2025-03-04,Line_1,C,Operator Delay,32.8
+2025-03-04,Line_2,A,Quality Hold,43.1
+2025-03-04,Line_2,B,Changeover,29.5
+2025-03-04,Line_2,C,Material Shortage,27.9
+2025-03-04,Line_3,A,Operator Delay,0.0
+2025-03-04,Line_3,B,Quality Hold,38.0
+2025-03-04,Line_3,C,Changeover,15.1
+2025-03-04,Line_4,A,Quality Hold,27.8
+2025-03-04,Line_4,B,Changeover,23.8
+2025-03-04,Line_4,C,Maintenance,32.6
+2025-03-05,Line_1,A,Changeover,28.2
+2025-03-05,Line_1,B,Material Shortage,54.1
+2025-03-05,Line_1,C,Operator Delay,44.3
+2025-03-05,Line_2,A,Quality Hold,48.3
+2025-03-05,Line_2,B,Quality Hold,36.1
+2025-03-05,Line_2,C,Quality Hold,46.2
+2025-03-05,Line_3,A,Quality Hold,36.7
+2025-03-05,Line_3,B,Material Shortage,29.9
+2025-03-05,Line_3,C,Changeover,33.8
+2025-03-05,Line_4,A,Quality Hold,47.0
+2025-03-05,Line_4,B,Maintenance,38.8
+2025-03-05,Line_4,C,Maintenance,21.3
+2025-03-06,Line_1,A,Changeover,27.7
+2025-03-06,Line_1,B,Material Shortage,30.5
+2025-03-06,Line_1,C,Material Shortage,31.4
+2025-03-06,Line_2,A,Quality Hold,56.2
+2025-03-06,Line_2,B,Maintenance,38.2
+2025-03-06,Line_2,C,Maintenance,66.0
+2025-03-06,Line_3,A,Maintenance,23.8
+2025-03-06,Line_3,B,Quality Hold,24.7
+2025-03-06,Line_3,C,Operator Delay,47.1
+2025-03-06,Line_4,A,Material Shortage,15.4
+2025-03-06,Line_4,B,Changeover,76.0
+2025-03-06,Line_4,C,Quality Hold,29.0
+2025-03-07,Line_1,A,Changeover,48.0
+2025-03-07,Line_1,B,Changeover,32.5
+2025-03-07,Line_1,C,Quality Hold,49.2
+2025-03-07,Line_2,A,Changeover,6.7
+2025-03-07,Line_2,B,Changeover,57.5
+2025-03-07,Line_2,C,Maintenance,79.3
+2025-03-07,Line_3,A,Material Shortage,53.0
+2025-03-07,Line_3,B,Maintenance,42.8
+2025-03-07,Line_3,C,Changeover,26.0
+2025-03-07,Line_4,A,Maintenance,23.3
+2025-03-07,Line_4,B,Maintenance,55.4
+2025-03-07,Line_4,C,Quality Hold,69.6
+2025-03-08,Line_1,A,Quality Hold,63.9
+2025-03-08,Line_1,B,Operator Delay,42.1
+2025-03-08,Line_1,C,Operator Delay,14.0
+2025-03-08,Line_2,A,Changeover,2.3
+2025-03-08,Line_2,B,Operator Delay,27.7
+2025-03-08,Line_2,C,Operator Delay,39.8
+2025-03-08,Line_3,A,Quality Hold,40.1
+2025-03-08,Line_3,B,Operator Delay,23.2
+2025-03-08,Line_3,C,Maintenance,37.9
+2025-03-08,Line_4,A,Maintenance,29.6
+2025-03-08,Line_4,B,Changeover,20.5
+2025-03-08,Line_4,C,Changeover,0.0
+2025-03-09,Line_1,A,Changeover,44.9
+2025-03-09,Line_1,B,Material Shortage,20.8
+2025-03-09,Line_1,C,Operator Delay,38.5
+2025-03-09,Line_2,A,Changeover,7.8
+2025-03-09,Line_2,B,Maintenance,28.8
+2025-03-09,Line_2,C,Quality Hold,30.9
+2025-03-09,Line_3,A,Changeover,13.2
+2025-03-09,Line_3,B,Maintenance,61.6
+2025-03-09,Line_3,C,Maintenance,41.5
+2025-03-09,Line_4,A,Changeover,41.9
+2025-03-09,Line_4,B,Changeover,74.3
+2025-03-09,Line_4,C,Changeover,38.2
+2025-03-10,Line_1,A,Material Shortage,32.9
+2025-03-10,Line_1,B,Maintenance,57.6
+2025-03-10,Line_1,C,Changeover,10.1
+2025-03-10,Line_2,A,Changeover,18.8
+2025-03-10,Line_2,B,Quality Hold,14.4
+2025-03-10,Line_2,C,Maintenance,13.7
+2025-03-10,Line_3,A,Maintenance,45.1
+2025-03-10,Line_3,B,Quality Hold,9.7
+2025-03-10,Line_3,C,Changeover,42.5
+2025-03-10,Line_4,A,Changeover,0.0
+2025-03-10,Line_4,B,Changeover,20.1
+2025-03-10,Line_4,C,Maintenance,45.2
+2025-03-11,Line_1,A,Maintenance,41.8
+2025-03-11,Line_1,B,Operator Delay,36.5
+2025-03-11,Line_1,C,Changeover,42.7
+2025-03-11,Line_2,A,Operator Delay,30.6
+2025-03-11,Line_2,B,Quality Hold,32.5
+2025-03-11,Line_2,C,Material Shortage,51.1
+2025-03-11,Line_3,A,Material Shortage,22.3
+2025-03-11,Line_3,B,Changeover,52.0
+2025-03-11,Line_3,C,Quality Hold,70.3
+2025-03-11,Line_4,A,Quality Hold,52.4
+2025-03-11,Line_4,B,Maintenance,44.8
+2025-03-11,Line_4,C,Changeover,71.2
+2025-03-12,Line_1,A,Maintenance,36.1
+2025-03-12,Line_1,B,Material Shortage,63.4
+2025-03-12,Line_1,C,Maintenance,26.7
+2025-03-12,Line_2,A,Changeover,29.7
+2025-03-12,Line_2,B,Material Shortage,51.0
+2025-03-12,Line_2,C,Changeover,36.6
+2025-03-12,Line_3,A,Material Shortage,79.5
+2025-03-12,Line_3,B,Quality Hold,13.8
+2025-03-12,Line_3,C,Changeover,52.9
+2025-03-12,Line_4,A,Maintenance,15.2
+2025-03-12,Line_4,B,Maintenance,5.3
+2025-03-12,Line_4,C,Maintenance,41.8
+2025-03-13,Line_1,A,Material Shortage,49.8
+2025-03-13,Line_1,B,Changeover,26.6
+2025-03-13,Line_1,C,Material Shortage,62.8
+2025-03-13,Line_2,A,Quality Hold,50.1
+2025-03-13,Line_2,B,Material Shortage,45.7
+2025-03-13,Line_2,C,Material Shortage,34.4
+2025-03-13,Line_3,A,Changeover,35.7
+2025-03-13,Line_3,B,Changeover,54.9
+2025-03-13,Line_3,C,Changeover,3.1
+2025-03-13,Line_4,A,Operator Delay,8.5
+2025-03-13,Line_4,B,Operator Delay,49.4
+2025-03-13,Line_4,C,Changeover,34.1
+2025-03-14,Line_1,A,Material Shortage,38.1
+2025-03-14,Line_1,B,Operator Delay,54.0
+2025-03-14,Line_1,C,Maintenance,41.4
+2025-03-14,Line_2,A,Changeover,42.4
+2025-03-14,Line_2,B,Maintenance,40.0
+2025-03-14,Line_2,C,Changeover,22.9
+2025-03-14,Line_3,A,Changeover,33.6
+2025-03-14,Line_3,B,Material Shortage,0.0
+2025-03-14,Line_3,C,Maintenance,31.1
+2025-03-14,Line_4,A,Operator Delay,6.1
+2025-03-14,Line_4,B,Quality Hold,28.2
+2025-03-14,Line_4,C,Maintenance,17.9
+2025-03-15,Line_1,A,Operator Delay,9.5
+2025-03-15,Line_1,B,Quality Hold,27.9
+2025-03-15,Line_1,C,Material Shortage,36.4
+2025-03-15,Line_2,A,Material Shortage,24.4
+2025-03-15,Line_2,B,Operator Delay,57.4
+2025-03-15,Line_2,C,Maintenance,31.4
+2025-03-15,Line_3,A,Changeover,48.3
+2025-03-15,Line_3,B,Changeover,34.5
+2025-03-15,Line_3,C,Maintenance,33.0
+2025-03-15,Line_4,A,Changeover,31.3
+2025-03-15,Line_4,B,Operator Delay,39.9
+2025-03-15,Line_4,C,Quality Hold,45.8
+2025-03-16,Line_1,A,Quality Hold,0.6
+2025-03-16,Line_1,B,Changeover,41.0
+2025-03-16,Line_1,C,Quality Hold,59.5
+2025-03-16,Line_2,A,Quality Hold,36.3
+2025-03-16,Line_2,B,Material Shortage,41.1
+2025-03-16,Line_2,C,Material Shortage,31.7
+2025-03-16,Line_3,A,Quality Hold,26.4
+2025-03-16,Line_3,B,Quality Hold,8.0
+2025-03-16,Line_3,C,Quality Hold,26.0
+2025-03-16,Line_4,A,Operator Delay,22.1
+2025-03-16,Line_4,B,Quality Hold,34.8
+2025-03-16,Line_4,C,Material Shortage,44.2
+2025-03-17,Line_1,A,Maintenance,44.7
+2025-03-17,Line_1,B,Maintenance,21.5
+2025-03-17,Line_1,C,Material Shortage,0.0
+2025-03-17,Line_2,A,Changeover,57.2
+2025-03-17,Line_2,B,Maintenance,49.2
+2025-03-17,Line_2,C,Changeover,25.6
+2025-03-17,Line_3,A,Maintenance,48.4
+2025-03-17,Line_3,B,Operator Delay,0.0
+2025-03-17,Line_3,C,Operator Delay,15.6
+2025-03-17,Line_4,A,Maintenance,29.3
+2025-03-17,Line_4,B,Operator Delay,40.1
+2025-03-17,Line_4,C,Quality Hold,47.4
+2025-03-18,Line_1,A,Changeover,23.0
+2025-03-18,Line_1,B,Changeover,64.7
+2025-03-18,Line_1,C,Maintenance,35.1
+2025-03-18,Line_2,A,Material Shortage,32.1
+2025-03-18,Line_2,B,Changeover,51.2
+2025-03-18,Line_2,C,Changeover,25.5
+2025-03-18,Line_3,A,Operator Delay,49.8
+2025-03-18,Line_3,B,Changeover,15.3
+2025-03-18,Line_3,C,Material Shortage,31.9
+2025-03-18,Line_4,A,Material Shortage,14.6
+2025-03-18,Line_4,B,Maintenance,39.7
+2025-03-18,Line_4,C,Material Shortage,56.9
+2025-03-19,Line_1,A,Maintenance,1.6
+2025-03-19,Line_1,B,Operator Delay,23.7
+2025-03-19,Line_1,C,Material Shortage,21.1
+2025-03-19,Line_2,A,Operator Delay,23.9
+2025-03-19,Line_2,B,Material Shortage,17.8
+2025-03-19,Line_2,C,Changeover,28.0
+2025-03-19,Line_3,A,Changeover,32.4
+2025-03-19,Line_3,B,Quality Hold,23.1
+2025-03-19,Line_3,C,Operator Delay,69.8
+2025-03-19,Line_4,A,Quality Hold,22.1
+2025-03-19,Line_4,B,Maintenance,70.9
+2025-03-19,Line_4,C,Maintenance,3.1
+2025-03-20,Line_1,A,Maintenance,26.1
+2025-03-20,Line_1,B,Maintenance,48.5
+2025-03-20,Line_1,C,Maintenance,41.0
+2025-03-20,Line_2,A,Changeover,52.3
+2025-03-20,Line_2,B,Material Shortage,31.0
+2025-03-20,Line_2,C,Material Shortage,2.7
+2025-03-20,Line_3,A,Quality Hold,32.4
+2025-03-20,Line_3,B,Changeover,19.9
+2025-03-20,Line_3,C,Operator Delay,64.7
+2025-03-20,Line_4,A,Material Shortage,13.5
+2025-03-20,Line_4,B,Quality Hold,36.9
+2025-03-20,Line_4,C,Maintenance,25.5
+2025-03-21,Line_1,A,Quality Hold,48.1
+2025-03-21,Line_1,B,Maintenance,48.1
+2025-03-21,Line_1,C,Material Shortage,57.9
+2025-03-21,Line_2,A,Material Shortage,67.0
+2025-03-21,Line_2,B,Maintenance,36.5
+2025-03-21,Line_2,C,Changeover,64.3
+2025-03-21,Line_3,A,Material Shortage,13.0
+2025-03-21,Line_3,B,Maintenance,39.1
+2025-03-21,Line_3,C,Operator Delay,26.2
+2025-03-21,Line_4,A,Quality Hold,11.2
+2025-03-21,Line_4,B,Operator Delay,20.5
+2025-03-21,Line_4,C,Maintenance,44.0
+2025-03-22,Line_1,A,Maintenance,33.2
+2025-03-22,Line_1,B,Quality Hold,55.2
+2025-03-22,Line_1,C,Changeover,27.4
+2025-03-22,Line_2,A,Material Shortage,38.9
+2025-03-22,Line_2,B,Material Shortage,26.3
+2025-03-22,Line_2,C,Maintenance,67.6
+2025-03-22,Line_3,A,Maintenance,28.6
+2025-03-22,Line_3,B,Changeover,24.2
+2025-03-22,Line_3,C,Material Shortage,18.0
+2025-03-22,Line_4,A,Operator Delay,46.8
+2025-03-22,Line_4,B,Material Shortage,16.6
+2025-03-22,Line_4,C,Material Shortage,30.2
+2025-03-23,Line_1,A,Quality Hold,25.5
+2025-03-23,Line_1,B,Maintenance,38.2
+2025-03-23,Line_1,C,Changeover,40.4
+2025-03-23,Line_2,A,Material Shortage,22.2
+2025-03-23,Line_2,B,Changeover,20.7
+2025-03-23,Line_2,C,Maintenance,40.3
+2025-03-23,Line_3,A,Operator Delay,19.3
+2025-03-23,Line_3,B,Quality Hold,20.1
+2025-03-23,Line_3,C,Operator Delay,65.3
+2025-03-23,Line_4,A,Operator Delay,27.7
+2025-03-23,Line_4,B,Material Shortage,51.7
+2025-03-23,Line_4,C,Changeover,25.6
+2025-03-24,Line_1,A,Changeover,65.2
+2025-03-24,Line_1,B,Quality Hold,34.1
+2025-03-24,Line_1,C,Changeover,33.6
+2025-03-24,Line_2,A,Material Shortage,32.8
+2025-03-24,Line_2,B,Changeover,22.4
+2025-03-24,Line_2,C,Operator Delay,32.4
+2025-03-24,Line_3,A,Changeover,72.1
+2025-03-24,Line_3,B,Changeover,5.6
+2025-03-24,Line_3,C,Quality Hold,54.0
+2025-03-24,Line_4,A,Changeover,29.5
+2025-03-24,Line_4,B,Quality Hold,32.9
+2025-03-24,Line_4,C,Maintenance,57.0
+2025-03-25,Line_1,A,Operator Delay,31.3
+2025-03-25,Line_1,B,Changeover,51.0
+2025-03-25,Line_1,C,Operator Delay,14.9
+2025-03-25,Line_2,A,Changeover,23.0
+2025-03-25,Line_2,B,Quality Hold,25.1
+2025-03-25,Line_2,C,Material Shortage,33.2
+2025-03-25,Line_3,A,Changeover,29.9
+2025-03-25,Line_3,B,Changeover,51.2
+2025-03-25,Line_3,C,Maintenance,34.8
+2025-03-25,Line_4,A,Changeover,17.1
+2025-03-25,Line_4,B,Maintenance,52.4
+2025-03-25,Line_4,C,Operator Delay,19.2
+2025-03-26,Line_1,A,Changeover,12.6
+2025-03-26,Line_1,B,Maintenance,40.3
+2025-03-26,Line_1,C,Maintenance,53.9
+2025-03-26,Line_2,A,Maintenance,51.0
+2025-03-26,Line_2,B,Changeover,63.4
+2025-03-26,Line_2,C,Operator Delay,37.2
+2025-03-26,Line_3,A,Changeover,17.4
+2025-03-26,Line_3,B,Quality Hold,47.9
+2025-03-26,Line_3,C,Changeover,27.7
+2025-03-26,Line_4,A,Maintenance,35.8
+2025-03-26,Line_4,B,Material Shortage,20.4
+2025-03-26,Line_4,C,Changeover,30.0
+2025-03-27,Line_1,A,Operator Delay,46.4
+2025-03-27,Line_1,B,Maintenance,49.6
+2025-03-27,Line_1,C,Material Shortage,67.3
+2025-03-27,Line_2,A,Maintenance,0.0
+2025-03-27,Line_2,B,Quality Hold,21.4
+2025-03-27,Line_2,C,Changeover,21.6
+2025-03-27,Line_3,A,Maintenance,35.9
+2025-03-27,Line_3,B,Quality Hold,48.6
+2025-03-27,Line_3,C,Maintenance,32.6
+2025-03-27,Line_4,A,Quality Hold,39.1
+2025-03-27,Line_4,B,Quality Hold,9.0
+2025-03-27,Line_4,C,Quality Hold,39.4
+2025-03-28,Line_1,A,Maintenance,52.0
+2025-03-28,Line_1,B,Material Shortage,50.5
+2025-03-28,Line_1,C,Quality Hold,61.0
+2025-03-28,Line_2,A,Maintenance,41.3
+2025-03-28,Line_2,B,Maintenance,24.7
+2025-03-28,Line_2,C,Maintenance,10.0
+2025-03-28,Line_3,A,Changeover,20.7
+2025-03-28,Line_3,B,Changeover,36.6
+2025-03-28,Line_3,C,Maintenance,40.2
+2025-03-28,Line_4,A,Maintenance,50.9
+2025-03-28,Line_4,B,Operator Delay,18.3
+2025-03-28,Line_4,C,Material Shortage,0.0
+2025-03-29,Line_1,A,Changeover,24.2
+2025-03-29,Line_1,B,Maintenance,52.4
+2025-03-29,Line_1,C,Quality Hold,43.8
+2025-03-29,Line_2,A,Quality Hold,40.7
+2025-03-29,Line_2,B,Material Shortage,6.6
+2025-03-29,Line_2,C,Maintenance,42.2
+2025-03-29,Line_3,A,Material Shortage,36.1
+2025-03-29,Line_3,B,Quality Hold,59.2
+2025-03-29,Line_3,C,Maintenance,7.6
+2025-03-29,Line_4,A,Changeover,55.0
+2025-03-29,Line_4,B,Operator Delay,80.5
+2025-03-29,Line_4,C,Quality Hold,43.3
+2025-03-30,Line_1,A,Material Shortage,29.6
+2025-03-30,Line_1,B,Maintenance,28.4
+2025-03-30,Line_1,C,Operator Delay,23.0
+2025-03-30,Line_2,A,Maintenance,47.8
+2025-03-30,Line_2,B,Material Shortage,25.8
+2025-03-30,Line_2,C,Quality Hold,45.6
+2025-03-30,Line_3,A,Changeover,11.7
+2025-03-30,Line_3,B,Maintenance,21.1
+2025-03-30,Line_3,C,Maintenance,38.5
+2025-03-30,Line_4,A,Material Shortage,55.3
+2025-03-30,Line_4,B,Material Shortage,55.1
+2025-03-30,Line_4,C,Material Shortage,2.8
+2025-03-31,Line_1,A,Operator Delay,58.4
+2025-03-31,Line_1,B,Quality Hold,44.0
+2025-03-31,Line_1,C,Changeover,35.0
+2025-03-31,Line_2,A,Changeover,15.9
+2025-03-31,Line_2,B,Quality Hold,63.9
+2025-03-31,Line_2,C,Changeover,34.7
+2025-03-31,Line_3,A,Changeover,47.8
+2025-03-31,Line_3,B,Maintenance,35.2
+2025-03-31,Line_3,C,Maintenance,29.5
+2025-03-31,Line_4,A,Quality Hold,21.9
+2025-03-31,Line_4,B,Maintenance,36.0
+2025-03-31,Line_4,C,Operator Delay,12.9
+2025-04-01,Line_1,A,Maintenance,11.9
+2025-04-01,Line_1,B,Material Shortage,15.7
+2025-04-01,Line_1,C,Quality Hold,51.3
+2025-04-01,Line_2,A,Changeover,34.6
+2025-04-01,Line_2,B,Maintenance,13.3
+2025-04-01,Line_2,C,Material Shortage,47.2
+2025-04-01,Line_3,A,Quality Hold,50.5
+2025-04-01,Line_3,B,Changeover,35.5
+2025-04-01,Line_3,C,Quality Hold,22.9
+2025-04-01,Line_4,A,Material Shortage,65.4
+2025-04-01,Line_4,B,Material Shortage,50.9
+2025-04-01,Line_4,C,Operator Delay,1.7
+2025-04-02,Line_1,A,Material Shortage,47.0
+2025-04-02,Line_1,B,Maintenance,31.0
+2025-04-02,Line_1,C,Operator Delay,64.9
+2025-04-02,Line_2,A,Operator Delay,53.3
+2025-04-02,Line_2,B,Changeover,30.6
+2025-04-02,Line_2,C,Quality Hold,53.5
+2025-04-02,Line_3,A,Material Shortage,22.5
+2025-04-02,Line_3,B,Maintenance,20.7
+2025-04-02,Line_3,C,Quality Hold,20.8
+2025-04-02,Line_4,A,Material Shortage,31.9
+2025-04-02,Line_4,B,Maintenance,27.8
+2025-04-02,Line_4,C,Maintenance,28.3
+2025-04-03,Line_1,A,Material Shortage,57.3
+2025-04-03,Line_1,B,Changeover,43.4
+2025-04-03,Line_1,C,Changeover,27.1
+2025-04-03,Line_2,A,Quality Hold,49.3
+2025-04-03,Line_2,B,Maintenance,5.4
+2025-04-03,Line_2,C,Changeover,18.2
+2025-04-03,Line_3,A,Quality Hold,26.6
+2025-04-03,Line_3,B,Changeover,47.5
+2025-04-03,Line_3,C,Maintenance,24.3
+2025-04-03,Line_4,A,Operator Delay,27.6
+2025-04-03,Line_4,B,Changeover,21.0
+2025-04-03,Line_4,C,Operator Delay,23.1
+2025-04-04,Line_1,A,Maintenance,29.5
+2025-04-04,Line_1,B,Material Shortage,42.5
+2025-04-04,Line_1,C,Material Shortage,17.3
+2025-04-04,Line_2,A,Material Shortage,47.9
+2025-04-04,Line_2,B,Material Shortage,51.0
+2025-04-04,Line_2,C,Maintenance,67.9
+2025-04-04,Line_3,A,Operator Delay,35.3
+2025-04-04,Line_3,B,Changeover,25.6
+2025-04-04,Line_3,C,Operator Delay,40.5
+2025-04-04,Line_4,A,Maintenance,38.8
+2025-04-04,Line_4,B,Operator Delay,38.7
+2025-04-04,Line_4,C,Quality Hold,22.1
+2025-04-05,Line_1,A,Maintenance,9.0
+2025-04-05,Line_1,B,Material Shortage,23.2
+2025-04-05,Line_1,C,Changeover,15.1
+2025-04-05,Line_2,A,Quality Hold,6.6
+2025-04-05,Line_2,B,Material Shortage,48.8
+2025-04-05,Line_2,C,Changeover,18.5
+2025-04-05,Line_3,A,Maintenance,38.9
+2025-04-05,Line_3,B,Maintenance,31.7
+2025-04-05,Line_3,C,Quality Hold,0.0
+2025-04-05,Line_4,A,Maintenance,41.6
+2025-04-05,Line_4,B,Operator Delay,66.8
+2025-04-05,Line_4,C,Maintenance,7.7
+2025-04-06,Line_1,A,Maintenance,82.3
+2025-04-06,Line_1,B,Changeover,28.2
+2025-04-06,Line_1,C,Material Shortage,32.6
+2025-04-06,Line_2,A,Maintenance,44.8
+2025-04-06,Line_2,B,Maintenance,33.2
+2025-04-06,Line_2,C,Maintenance,8.8
+2025-04-06,Line_3,A,Material Shortage,21.8
+2025-04-06,Line_3,B,Maintenance,36.4
+2025-04-06,Line_3,C,Material Shortage,37.3
+2025-04-06,Line_4,A,Maintenance,48.8
+2025-04-06,Line_4,B,Maintenance,43.1
+2025-04-06,Line_4,C,Maintenance,54.0
+2025-04-07,Line_1,A,Quality Hold,31.2
+2025-04-07,Line_1,B,Material Shortage,11.3
+2025-04-07,Line_1,C,Changeover,34.8
+2025-04-07,Line_2,A,Quality Hold,47.0
+2025-04-07,Line_2,B,Maintenance,25.0
+2025-04-07,Line_2,C,Maintenance,37.9
+2025-04-07,Line_3,A,Operator Delay,42.1
+2025-04-07,Line_3,B,Material Shortage,39.7
+2025-04-07,Line_3,C,Maintenance,42.4
+2025-04-07,Line_4,A,Changeover,90.2
+2025-04-07,Line_4,B,Quality Hold,31.1
+2025-04-07,Line_4,C,Changeover,39.5
+2025-04-08,Line_1,A,Quality Hold,26.0
+2025-04-08,Line_1,B,Maintenance,67.3
+2025-04-08,Line_1,C,Material Shortage,0.0
+2025-04-08,Line_2,A,Operator Delay,41.2
+2025-04-08,Line_2,B,Quality Hold,49.7
+2025-04-08,Line_2,C,Maintenance,50.0
+2025-04-08,Line_3,A,Operator Delay,88.8
+2025-04-08,Line_3,B,Changeover,18.3
+2025-04-08,Line_3,C,Quality Hold,36.3
+2025-04-08,Line_4,A,Material Shortage,29.1
+2025-04-08,Line_4,B,Material Shortage,32.4
+2025-04-08,Line_4,C,Changeover,44.6
+2025-04-09,Line_1,A,Changeover,46.4
+2025-04-09,Line_1,B,Maintenance,15.2
+2025-04-09,Line_1,C,Changeover,73.5
+2025-04-09,Line_2,A,Changeover,32.4
+2025-04-09,Line_2,B,Operator Delay,16.9
+2025-04-09,Line_2,C,Maintenance,36.4
+2025-04-09,Line_3,A,Maintenance,28.0
+2025-04-09,Line_3,B,Maintenance,16.5
+2025-04-09,Line_3,C,Changeover,0.3
+2025-04-09,Line_4,A,Changeover,34.0
+2025-04-09,Line_4,B,Material Shortage,42.6
+2025-04-09,Line_4,C,Changeover,26.0
+2025-04-10,Line_1,A,Maintenance,33.3
+2025-04-10,Line_1,B,Quality Hold,65.6
+2025-04-10,Line_1,C,Maintenance,32.1
+2025-04-10,Line_2,A,Maintenance,55.2
+2025-04-10,Line_2,B,Maintenance,14.2
+2025-04-10,Line_2,C,Maintenance,28.4
+2025-04-10,Line_3,A,Material Shortage,60.2
+2025-04-10,Line_3,B,Material Shortage,21.2
+2025-04-10,Line_3,C,Quality Hold,43.1
+2025-04-10,Line_4,A,Material Shortage,46.5
+2025-04-10,Line_4,B,Operator Delay,34.1
+2025-04-10,Line_4,C,Maintenance,15.6
+2025-04-11,Line_1,A,Operator Delay,0.0
+2025-04-11,Line_1,B,Maintenance,53.5
+2025-04-11,Line_1,C,Maintenance,31.5
+2025-04-11,Line_2,A,Maintenance,43.8
+2025-04-11,Line_2,B,Material Shortage,50.1
+2025-04-11,Line_2,C,Material Shortage,36.7
+2025-04-11,Line_3,A,Changeover,52.9
+2025-04-11,Line_3,B,Quality Hold,26.6
+2025-04-11,Line_3,C,Maintenance,45.1
+2025-04-11,Line_4,A,Material Shortage,26.4
+2025-04-11,Line_4,B,Maintenance,26.1
+2025-04-11,Line_4,C,Operator Delay,11.0
+2025-04-12,Line_1,A,Changeover,19.7
+2025-04-12,Line_1,B,Material Shortage,28.9
+2025-04-12,Line_1,C,Operator Delay,40.3
+2025-04-12,Line_2,A,Quality Hold,34.7
+2025-04-12,Line_2,B,Maintenance,30.9
+2025-04-12,Line_2,C,Maintenance,63.0
+2025-04-12,Line_3,A,Material Shortage,75.0
+2025-04-12,Line_3,B,Maintenance,24.2
+2025-04-12,Line_3,C,Material Shortage,32.3
+2025-04-12,Line_4,A,Maintenance,28.0
+2025-04-12,Line_4,B,Material Shortage,47.5
+2025-04-12,Line_4,C,Maintenance,42.5
+2025-04-13,Line_1,A,Quality Hold,33.9
+2025-04-13,Line_1,B,Maintenance,16.4
+2025-04-13,Line_1,C,Changeover,0.0
+2025-04-13,Line_2,A,Changeover,23.8
+2025-04-13,Line_2,B,Material Shortage,56.2
+2025-04-13,Line_2,C,Maintenance,37.9
+2025-04-13,Line_3,A,Quality Hold,36.1
+2025-04-13,Line_3,B,Quality Hold,33.5
+2025-04-13,Line_3,C,Maintenance,80.4
+2025-04-13,Line_4,A,Changeover,0.0
+2025-04-13,Line_4,B,Maintenance,44.2
+2025-04-13,Line_4,C,Material Shortage,55.4
+2025-04-14,Line_1,A,Maintenance,14.5
+2025-04-14,Line_1,B,Quality Hold,34.6
+2025-04-14,Line_1,C,Quality Hold,49.9
+2025-04-14,Line_2,A,Changeover,59.6
+2025-04-14,Line_2,B,Operator Delay,52.0
+2025-04-14,Line_2,C,Maintenance,22.0
+2025-04-14,Line_3,A,Maintenance,59.0
+2025-04-14,Line_3,B,Operator Delay,69.8
+2025-04-14,Line_3,C,Changeover,40.2
+2025-04-14,Line_4,A,Changeover,88.0
+2025-04-14,Line_4,B,Material Shortage,49.7
+2025-04-14,Line_4,C,Material Shortage,15.5
+2025-04-15,Line_1,A,Maintenance,36.1
+2025-04-15,Line_1,B,Changeover,46.3
+2025-04-15,Line_1,C,Changeover,70.3
+2025-04-15,Line_2,A,Changeover,18.0
+2025-04-15,Line_2,B,Changeover,0.0
+2025-04-15,Line_2,C,Maintenance,33.6
+2025-04-15,Line_3,A,Material Shortage,43.6
+2025-04-15,Line_3,B,Changeover,33.6
+2025-04-15,Line_3,C,Maintenance,44.9
+2025-04-15,Line_4,A,Maintenance,51.6
+2025-04-15,Line_4,B,Maintenance,0.7
+2025-04-15,Line_4,C,Maintenance,49.8
+2025-04-16,Line_1,A,Changeover,51.4
+2025-04-16,Line_1,B,Changeover,43.5
+2025-04-16,Line_1,C,Maintenance,29.8
+2025-04-16,Line_2,A,Material Shortage,47.7
+2025-04-16,Line_2,B,Maintenance,32.2
+2025-04-16,Line_2,C,Maintenance,73.5
+2025-04-16,Line_3,A,Changeover,14.2
+2025-04-16,Line_3,B,Changeover,19.4
+2025-04-16,Line_3,C,Material Shortage,66.7
+2025-04-16,Line_4,A,Changeover,35.5
+2025-04-16,Line_4,B,Material Shortage,33.3
+2025-04-16,Line_4,C,Quality Hold,58.8
+2025-04-17,Line_1,A,Maintenance,24.4
+2025-04-17,Line_1,B,Quality Hold,15.1
+2025-04-17,Line_1,C,Material Shortage,32.3
+2025-04-17,Line_2,A,Changeover,41.4
+2025-04-17,Line_2,B,Changeover,32.1
+2025-04-17,Line_2,C,Material Shortage,36.6
+2025-04-17,Line_3,A,Maintenance,46.1
+2025-04-17,Line_3,B,Operator Delay,49.3
+2025-04-17,Line_3,C,Material Shortage,21.6
+2025-04-17,Line_4,A,Quality Hold,36.7
+2025-04-17,Line_4,B,Quality Hold,20.7
+2025-04-17,Line_4,C,Quality Hold,31.5
+2025-04-18,Line_1,A,Maintenance,27.5
+2025-04-18,Line_1,B,Maintenance,48.8
+2025-04-18,Line_1,C,Material Shortage,41.3
+2025-04-18,Line_2,A,Maintenance,16.0
+2025-04-18,Line_2,B,Quality Hold,47.1
+2025-04-18,Line_2,C,Maintenance,0.0
+2025-04-18,Line_3,A,Maintenance,80.4
+2025-04-18,Line_3,B,Maintenance,25.2
+2025-04-18,Line_3,C,Changeover,7.5
+2025-04-18,Line_4,A,Maintenance,14.0
+2025-04-18,Line_4,B,Maintenance,58.0
+2025-04-18,Line_4,C,Maintenance,57.3
+2025-04-19,Line_1,A,Changeover,14.8
+2025-04-19,Line_1,B,Operator Delay,24.3
+2025-04-19,Line_1,C,Maintenance,48.7
+2025-04-19,Line_2,A,Changeover,55.9
+2025-04-19,Line_2,B,Maintenance,27.2
+2025-04-19,Line_2,C,Changeover,50.4
+2025-04-19,Line_3,A,Quality Hold,33.6
+2025-04-19,Line_3,B,Material Shortage,50.7
+2025-04-19,Line_3,C,Maintenance,30.6
+2025-04-19,Line_4,A,Maintenance,42.8
+2025-04-19,Line_4,B,Quality Hold,61.4
+2025-04-19,Line_4,C,Quality Hold,37.0
+2025-04-20,Line_1,A,Material Shortage,20.7
+2025-04-20,Line_1,B,Changeover,20.2
+2025-04-20,Line_1,C,Maintenance,50.5
+2025-04-20,Line_2,A,Changeover,53.0
+2025-04-20,Line_2,B,Operator Delay,57.5
+2025-04-20,Line_2,C,Material Shortage,20.1
+2025-04-20,Line_3,A,Quality Hold,33.6
+2025-04-20,Line_3,B,Quality Hold,38.9
+2025-04-20,Line_3,C,Maintenance,47.9
+2025-04-20,Line_4,A,Quality Hold,26.4
+2025-04-20,Line_4,B,Changeover,34.0
+2025-04-20,Line_4,C,Maintenance,22.9
+2025-04-21,Line_1,A,Maintenance,68.4
+2025-04-21,Line_1,B,Maintenance,54.5
+2025-04-21,Line_1,C,Material Shortage,60.6
+2025-04-21,Line_2,A,Changeover,39.6
+2025-04-21,Line_2,B,Changeover,27.0
+2025-04-21,Line_2,C,Quality Hold,31.7
+2025-04-21,Line_3,A,Operator Delay,30.2
+2025-04-21,Line_3,B,Maintenance,28.1
+2025-04-21,Line_3,C,Changeover,10.5
+2025-04-21,Line_4,A,Operator Delay,44.7
+2025-04-21,Line_4,B,Quality Hold,20.7
+2025-04-21,Line_4,C,Maintenance,23.3
+2025-04-22,Line_1,A,Operator Delay,9.2
+2025-04-22,Line_1,B,Maintenance,32.3
+2025-04-22,Line_1,C,Material Shortage,55.0
+2025-04-22,Line_2,A,Quality Hold,40.0
+2025-04-22,Line_2,B,Changeover,37.8
+2025-04-22,Line_2,C,Maintenance,47.3
+2025-04-22,Line_3,A,Material Shortage,17.7
+2025-04-22,Line_3,B,Operator Delay,38.8
+2025-04-22,Line_3,C,Quality Hold,31.8
+2025-04-22,Line_4,A,Material Shortage,53.9
+2025-04-22,Line_4,B,Changeover,38.2
+2025-04-22,Line_4,C,Maintenance,37.2
+2025-04-23,Line_1,A,Changeover,54.4
+2025-04-23,Line_1,B,Operator Delay,0.0
+2025-04-23,Line_1,C,Material Shortage,51.7
+2025-04-23,Line_2,A,Maintenance,36.1
+2025-04-23,Line_2,B,Changeover,56.1
+2025-04-23,Line_2,C,Maintenance,51.8
+2025-04-23,Line_3,A,Quality Hold,30.5
+2025-04-23,Line_3,B,Material Shortage,55.1
+2025-04-23,Line_3,C,Changeover,28.2
+2025-04-23,Line_4,A,Changeover,39.0
+2025-04-23,Line_4,B,Changeover,44.6
+2025-04-23,Line_4,C,Changeover,37.9
+2025-04-24,Line_1,A,Maintenance,51.3
+2025-04-24,Line_1,B,Material Shortage,0.0
+2025-04-24,Line_1,C,Maintenance,35.3
+2025-04-24,Line_2,A,Maintenance,23.5
+2025-04-24,Line_2,B,Changeover,32.4
+2025-04-24,Line_2,C,Changeover,27.9
+2025-04-24,Line_3,A,Material Shortage,33.8
+2025-04-24,Line_3,B,Maintenance,78.7
+2025-04-24,Line_3,C,Maintenance,20.0
+2025-04-24,Line_4,A,Maintenance,13.3
+2025-04-24,Line_4,B,Maintenance,29.2
+2025-04-24,Line_4,C,Material Shortage,23.7
+2025-04-25,Line_1,A,Maintenance,56.6
+2025-04-25,Line_1,B,Quality Hold,43.3
+2025-04-25,Line_1,C,Maintenance,22.4
+2025-04-25,Line_2,A,Operator Delay,35.0
+2025-04-25,Line_2,B,Material Shortage,30.9
+2025-04-25,Line_2,C,Maintenance,49.6
+2025-04-25,Line_3,A,Maintenance,34.4
+2025-04-25,Line_3,B,Changeover,49.2
+2025-04-25,Line_3,C,Quality Hold,30.6
+2025-04-25,Line_4,A,Material Shortage,48.1
+2025-04-25,Line_4,B,Maintenance,28.6
+2025-04-25,Line_4,C,Maintenance,19.0
+2025-04-26,Line_1,A,Material Shortage,32.1
+2025-04-26,Line_1,B,Changeover,34.5
+2025-04-26,Line_1,C,Material Shortage,14.1
+2025-04-26,Line_2,A,Changeover,45.0
+2025-04-26,Line_2,B,Maintenance,29.6
+2025-04-26,Line_2,C,Material Shortage,23.8
+2025-04-26,Line_3,A,Changeover,56.5
+2025-04-26,Line_3,B,Material Shortage,0.0
+2025-04-26,Line_3,C,Quality Hold,9.9
+2025-04-26,Line_4,A,Changeover,32.0
+2025-04-26,Line_4,B,Changeover,26.5
+2025-04-26,Line_4,C,Changeover,17.9
+2025-04-27,Line_1,A,Maintenance,30.2
+2025-04-27,Line_1,B,Maintenance,22.3
+2025-04-27,Line_1,C,Maintenance,41.5
+2025-04-27,Line_2,A,Maintenance,24.5
+2025-04-27,Line_2,B,Maintenance,29.4
+2025-04-27,Line_2,C,Changeover,24.1
+2025-04-27,Line_3,A,Changeover,18.4
+2025-04-27,Line_3,B,Quality Hold,36.1
+2025-04-27,Line_3,C,Maintenance,59.4
+2025-04-27,Line_4,A,Material Shortage,25.9
+2025-04-27,Line_4,B,Quality Hold,85.4
+2025-04-27,Line_4,C,Maintenance,42.8
+2025-04-28,Line_1,A,Material Shortage,7.2
+2025-04-28,Line_1,B,Material Shortage,32.0
+2025-04-28,Line_1,C,Quality Hold,58.7
+2025-04-28,Line_2,A,Maintenance,55.7
+2025-04-28,Line_2,B,Changeover,16.7
+2025-04-28,Line_2,C,Quality Hold,0.0
+2025-04-28,Line_3,A,Maintenance,45.0
+2025-04-28,Line_3,B,Maintenance,49.0
+2025-04-28,Line_3,C,Quality Hold,47.3
+2025-04-28,Line_4,A,Maintenance,60.3
+2025-04-28,Line_4,B,Quality Hold,7.3
+2025-04-28,Line_4,C,Operator Delay,46.0
+2025-04-29,Line_1,A,Maintenance,31.9
+2025-04-29,Line_1,B,Quality Hold,69.8
+2025-04-29,Line_1,C,Operator Delay,58.6
+2025-04-29,Line_2,A,Quality Hold,13.1
+2025-04-29,Line_2,B,Quality Hold,0.0
+2025-04-29,Line_2,C,Maintenance,6.8
+2025-04-29,Line_3,A,Quality Hold,18.7
+2025-04-29,Line_3,B,Quality Hold,51.5
+2025-04-29,Line_3,C,Material Shortage,38.7
+2025-04-29,Line_4,A,Quality Hold,48.8
+2025-04-29,Line_4,B,Changeover,37.4
+2025-04-29,Line_4,C,Operator Delay,16.1
+2025-04-30,Line_1,A,Operator Delay,31.7
+2025-04-30,Line_1,B,Quality Hold,42.1
+2025-04-30,Line_1,C,Operator Delay,17.8
+2025-04-30,Line_2,A,Maintenance,30.1
+2025-04-30,Line_2,B,Changeover,57.1
+2025-04-30,Line_2,C,Operator Delay,42.3
+2025-04-30,Line_3,A,Quality Hold,62.4
+2025-04-30,Line_3,B,Changeover,11.7
+2025-04-30,Line_3,C,Quality Hold,56.6
+2025-04-30,Line_4,A,Maintenance,60.6
+2025-04-30,Line_4,B,Operator Delay,31.1
+2025-04-30,Line_4,C,Maintenance,36.3
+2025-05-01,Line_1,A,Maintenance,25.6
+2025-05-01,Line_1,B,Maintenance,57.3
+2025-05-01,Line_1,C,Changeover,45.2
+2025-05-01,Line_2,A,Operator Delay,0.0
+2025-05-01,Line_2,B,Changeover,38.9
+2025-05-01,Line_2,C,Material Shortage,33.1
+2025-05-01,Line_3,A,Maintenance,44.5
+2025-05-01,Line_3,B,Changeover,19.8
+2025-05-01,Line_3,C,Changeover,34.6
+2025-05-01,Line_4,A,Changeover,27.6
+2025-05-01,Line_4,B,Material Shortage,45.5
+2025-05-01,Line_4,C,Operator Delay,21.1
+2025-05-02,Line_1,A,Changeover,37.9
+2025-05-02,Line_1,B,Quality Hold,57.9
+2025-05-02,Line_1,C,Quality Hold,18.6
+2025-05-02,Line_2,A,Changeover,34.5
+2025-05-02,Line_2,B,Quality Hold,0.0
+2025-05-02,Line_2,C,Material Shortage,56.6
+2025-05-02,Line_3,A,Material Shortage,8.2
+2025-05-02,Line_3,B,Changeover,20.4
+2025-05-02,Line_3,C,Changeover,19.5
+2025-05-02,Line_4,A,Operator Delay,40.5
+2025-05-02,Line_4,B,Maintenance,64.4
+2025-05-02,Line_4,C,Quality Hold,43.1
+2025-05-03,Line_1,A,Maintenance,58.7
+2025-05-03,Line_1,B,Maintenance,44.9
+2025-05-03,Line_1,C,Changeover,27.4
+2025-05-03,Line_2,A,Material Shortage,74.8
+2025-05-03,Line_2,B,Maintenance,49.6
+2025-05-03,Line_2,C,Changeover,26.4
+2025-05-03,Line_3,A,Material Shortage,43.4
+2025-05-03,Line_3,B,Changeover,13.0
+2025-05-03,Line_3,C,Quality Hold,36.5
+2025-05-03,Line_4,A,Material Shortage,50.7
+2025-05-03,Line_4,B,Changeover,3.2
+2025-05-03,Line_4,C,Material Shortage,60.2
+2025-05-04,Line_1,A,Material Shortage,0.0
+2025-05-04,Line_1,B,Quality Hold,5.6
+2025-05-04,Line_1,C,Maintenance,45.9
+2025-05-04,Line_2,A,Maintenance,23.9
+2025-05-04,Line_2,B,Material Shortage,23.0
+2025-05-04,Line_2,C,Quality Hold,27.0
+2025-05-04,Line_3,A,Changeover,29.7
+2025-05-04,Line_3,B,Material Shortage,53.9
+2025-05-04,Line_3,C,Maintenance,20.9
+2025-05-04,Line_4,A,Quality Hold,38.8
+2025-05-04,Line_4,B,Changeover,26.8
+2025-05-04,Line_4,C,Maintenance,41.6
+2025-05-05,Line_1,A,Material Shortage,28.5
+2025-05-05,Line_1,B,Maintenance,34.8
+2025-05-05,Line_1,C,Maintenance,55.9
+2025-05-05,Line_2,A,Changeover,22.2
+2025-05-05,Line_2,B,Quality Hold,23.6
+2025-05-05,Line_2,C,Maintenance,46.0
+2025-05-05,Line_3,A,Quality Hold,72.0
+2025-05-05,Line_3,B,Material Shortage,56.8
+2025-05-05,Line_3,C,Material Shortage,46.3
+2025-05-05,Line_4,A,Quality Hold,62.6
+2025-05-05,Line_4,B,Maintenance,28.6
+2025-05-05,Line_4,C,Maintenance,59.7
+2025-05-06,Line_1,A,Maintenance,16.9
+2025-05-06,Line_1,B,Quality Hold,57.1
+2025-05-06,Line_1,C,Material Shortage,3.1
+2025-05-06,Line_2,A,Operator Delay,37.1
+2025-05-06,Line_2,B,Changeover,22.5
+2025-05-06,Line_2,C,Quality Hold,57.2
+2025-05-06,Line_3,A,Quality Hold,0.0
+2025-05-06,Line_3,B,Changeover,76.6
+2025-05-06,Line_3,C,Changeover,34.3
+2025-05-06,Line_4,A,Maintenance,49.8
+2025-05-06,Line_4,B,Material Shortage,66.5
+2025-05-06,Line_4,C,Material Shortage,7.2
+2025-05-07,Line_1,A,Quality Hold,3.6
+2025-05-07,Line_1,B,Operator Delay,48.5
+2025-05-07,Line_1,C,Maintenance,0.0
+2025-05-07,Line_2,A,Changeover,69.0
+2025-05-07,Line_2,B,Maintenance,47.9
+2025-05-07,Line_2,C,Maintenance,75.3
+2025-05-07,Line_3,A,Changeover,32.0
+2025-05-07,Line_3,B,Changeover,53.3
+2025-05-07,Line_3,C,Quality Hold,52.0
+2025-05-07,Line_4,A,Maintenance,0.7
+2025-05-07,Line_4,B,Material Shortage,40.8
+2025-05-07,Line_4,C,Changeover,43.6
+2025-05-08,Line_1,A,Material Shortage,71.9
+2025-05-08,Line_1,B,Changeover,42.4
+2025-05-08,Line_1,C,Maintenance,40.4
+2025-05-08,Line_2,A,Material Shortage,35.3
+2025-05-08,Line_2,B,Changeover,61.7
+2025-05-08,Line_2,C,Quality Hold,11.9
+2025-05-08,Line_3,A,Quality Hold,39.3
+2025-05-08,Line_3,B,Changeover,40.2
+2025-05-08,Line_3,C,Maintenance,35.2
+2025-05-08,Line_4,A,Maintenance,25.8
+2025-05-08,Line_4,B,Material Shortage,47.7
+2025-05-08,Line_4,C,Quality Hold,55.0
+2025-05-09,Line_1,A,Operator Delay,45.9
+2025-05-09,Line_1,B,Operator Delay,27.8
+2025-05-09,Line_1,C,Material Shortage,51.2
+2025-05-09,Line_2,A,Changeover,30.3
+2025-05-09,Line_2,B,Operator Delay,24.9
+2025-05-09,Line_2,C,Changeover,29.7
+2025-05-09,Line_3,A,Maintenance,46.0
+2025-05-09,Line_3,B,Material Shortage,50.6
+2025-05-09,Line_3,C,Material Shortage,61.4
+2025-05-09,Line_4,A,Maintenance,41.3
+2025-05-09,Line_4,B,Operator Delay,63.0
+2025-05-09,Line_4,C,Changeover,17.7
+2025-05-10,Line_1,A,Quality Hold,27.3
+2025-05-10,Line_1,B,Maintenance,23.2
+2025-05-10,Line_1,C,Changeover,27.3
+2025-05-10,Line_2,A,Material Shortage,60.2
+2025-05-10,Line_2,B,Maintenance,29.7
+2025-05-10,Line_2,C,Maintenance,61.1
+2025-05-10,Line_3,A,Material Shortage,47.2
+2025-05-10,Line_3,B,Changeover,51.7
+2025-05-10,Line_3,C,Quality Hold,4.1
+2025-05-10,Line_4,A,Quality Hold,44.5
+2025-05-10,Line_4,B,Quality Hold,32.5
+2025-05-10,Line_4,C,Changeover,7.7
+2025-05-11,Line_1,A,Material Shortage,56.3
+2025-05-11,Line_1,B,Quality Hold,28.2
+2025-05-11,Line_1,C,Changeover,53.6
+2025-05-11,Line_2,A,Material Shortage,18.2
+2025-05-11,Line_2,B,Changeover,22.1
+2025-05-11,Line_2,C,Maintenance,47.8
+2025-05-11,Line_3,A,Quality Hold,0.0
+2025-05-11,Line_3,B,Operator Delay,23.7
+2025-05-11,Line_3,C,Operator Delay,0.0
+2025-05-11,Line_4,A,Material Shortage,47.1
+2025-05-11,Line_4,B,Changeover,55.5
+2025-05-11,Line_4,C,Material Shortage,20.0
+2025-05-12,Line_1,A,Maintenance,33.8
+2025-05-12,Line_1,B,Operator Delay,24.0
+2025-05-12,Line_1,C,Material Shortage,47.5
+2025-05-12,Line_2,A,Material Shortage,37.8
+2025-05-12,Line_2,B,Maintenance,24.6
+2025-05-12,Line_2,C,Changeover,34.2
+2025-05-12,Line_3,A,Changeover,25.0
+2025-05-12,Line_3,B,Maintenance,28.7
+2025-05-12,Line_3,C,Changeover,54.0
+2025-05-12,Line_4,A,Quality Hold,46.5
+2025-05-12,Line_4,B,Maintenance,40.9
+2025-05-12,Line_4,C,Material Shortage,69.2
+2025-05-13,Line_1,A,Changeover,0.0
+2025-05-13,Line_1,B,Changeover,23.0
+2025-05-13,Line_1,C,Maintenance,55.1
+2025-05-13,Line_2,A,Material Shortage,41.8
+2025-05-13,Line_2,B,Quality Hold,35.6
+2025-05-13,Line_2,C,Changeover,46.3
+2025-05-13,Line_3,A,Maintenance,31.5
+2025-05-13,Line_3,B,Quality Hold,28.3
+2025-05-13,Line_3,C,Operator Delay,29.4
+2025-05-13,Line_4,A,Quality Hold,18.4
+2025-05-13,Line_4,B,Operator Delay,77.2
+2025-05-13,Line_4,C,Changeover,24.2
+2025-05-14,Line_1,A,Operator Delay,43.6
+2025-05-14,Line_1,B,Changeover,19.9
+2025-05-14,Line_1,C,Operator Delay,52.7
+2025-05-14,Line_2,A,Changeover,23.0
+2025-05-14,Line_2,B,Maintenance,9.1
+2025-05-14,Line_2,C,Operator Delay,32.1
+2025-05-14,Line_3,A,Changeover,25.4
+2025-05-14,Line_3,B,Maintenance,21.4
+2025-05-14,Line_3,C,Changeover,59.7
+2025-05-14,Line_4,A,Maintenance,39.9
+2025-05-14,Line_4,B,Material Shortage,66.7
+2025-05-14,Line_4,C,Maintenance,8.4
+2025-05-15,Line_1,A,Maintenance,43.9
+2025-05-15,Line_1,B,Maintenance,18.4
+2025-05-15,Line_1,C,Operator Delay,49.5
+2025-05-15,Line_2,A,Operator Delay,68.4
+2025-05-15,Line_2,B,Quality Hold,46.5
+2025-05-15,Line_2,C,Changeover,45.0
+2025-05-15,Line_3,A,Material Shortage,61.1
+2025-05-15,Line_3,B,Maintenance,7.9
+2025-05-15,Line_3,C,Material Shortage,26.4
+2025-05-15,Line_4,A,Maintenance,24.6
+2025-05-15,Line_4,B,Maintenance,18.3
+2025-05-15,Line_4,C,Quality Hold,30.9
+2025-05-16,Line_1,A,Changeover,30.5
+2025-05-16,Line_1,B,Material Shortage,55.5
+2025-05-16,Line_1,C,Maintenance,30.5
+2025-05-16,Line_2,A,Quality Hold,44.7
+2025-05-16,Line_2,B,Quality Hold,5.3
+2025-05-16,Line_2,C,Material Shortage,47.6
+2025-05-16,Line_3,A,Changeover,68.8
+2025-05-16,Line_3,B,Operator Delay,14.6
+2025-05-16,Line_3,C,Changeover,15.5
+2025-05-16,Line_4,A,Quality Hold,35.4
+2025-05-16,Line_4,B,Quality Hold,37.5
+2025-05-16,Line_4,C,Maintenance,74.0
+2025-05-17,Line_1,A,Material Shortage,19.5
+2025-05-17,Line_1,B,Quality Hold,47.5
+2025-05-17,Line_1,C,Maintenance,30.8
+2025-05-17,Line_2,A,Quality Hold,45.7
+2025-05-17,Line_2,B,Maintenance,22.6
+2025-05-17,Line_2,C,Changeover,26.6
+2025-05-17,Line_3,A,Changeover,72.0
+2025-05-17,Line_3,B,Quality Hold,48.8
+2025-05-17,Line_3,C,Operator Delay,68.5
+2025-05-17,Line_4,A,Changeover,30.3
+2025-05-17,Line_4,B,Maintenance,49.2
+2025-05-17,Line_4,C,Changeover,22.9
+2025-05-18,Line_1,A,Quality Hold,56.3
+2025-05-18,Line_1,B,Material Shortage,37.0
+2025-05-18,Line_1,C,Maintenance,16.1
+2025-05-18,Line_2,A,Material Shortage,58.7
+2025-05-18,Line_2,B,Changeover,58.8
+2025-05-18,Line_2,C,Maintenance,60.8
+2025-05-18,Line_3,A,Quality Hold,47.0
+2025-05-18,Line_3,B,Material Shortage,28.3
+2025-05-18,Line_3,C,Maintenance,15.4
+2025-05-18,Line_4,A,Operator Delay,40.7
+2025-05-18,Line_4,B,Maintenance,1.2
+2025-05-18,Line_4,C,Material Shortage,69.4
+2025-05-19,Line_1,A,Maintenance,53.0
+2025-05-19,Line_1,B,Maintenance,20.7
+2025-05-19,Line_1,C,Operator Delay,19.4
+2025-05-19,Line_2,A,Maintenance,75.4
+2025-05-19,Line_2,B,Operator Delay,31.2
+2025-05-19,Line_2,C,Operator Delay,39.2
+2025-05-19,Line_3,A,Quality Hold,17.6
+2025-05-19,Line_3,B,Quality Hold,7.2
+2025-05-19,Line_3,C,Operator Delay,24.2
+2025-05-19,Line_4,A,Operator Delay,22.6
+2025-05-19,Line_4,B,Quality Hold,51.9
+2025-05-19,Line_4,C,Changeover,35.5
+2025-05-20,Line_1,A,Maintenance,52.0
+2025-05-20,Line_1,B,Changeover,37.7
+2025-05-20,Line_1,C,Quality Hold,41.1
+2025-05-20,Line_2,A,Quality Hold,33.8
+2025-05-20,Line_2,B,Material Shortage,0.0
+2025-05-20,Line_2,C,Quality Hold,3.5
+2025-05-20,Line_3,A,Quality Hold,27.0
+2025-05-20,Line_3,B,Quality Hold,42.5
+2025-05-20,Line_3,C,Maintenance,26.8
+2025-05-20,Line_4,A,Quality Hold,1.2
+2025-05-20,Line_4,B,Changeover,60.2
+2025-05-20,Line_4,C,Operator Delay,29.7
+2025-05-21,Line_1,A,Material Shortage,25.3
+2025-05-21,Line_1,B,Operator Delay,52.9
+2025-05-21,Line_1,C,Maintenance,12.4
+2025-05-21,Line_2,A,Material Shortage,26.6
+2025-05-21,Line_2,B,Quality Hold,51.9
+2025-05-21,Line_2,C,Quality Hold,27.0
+2025-05-21,Line_3,A,Quality Hold,69.2
+2025-05-21,Line_3,B,Operator Delay,43.0
+2025-05-21,Line_3,C,Material Shortage,28.7
+2025-05-21,Line_4,A,Quality Hold,31.7
+2025-05-21,Line_4,B,Material Shortage,32.9
+2025-05-21,Line_4,C,Changeover,48.4
+2025-05-22,Line_1,A,Quality Hold,45.5
+2025-05-22,Line_1,B,Changeover,15.5
+2025-05-22,Line_1,C,Quality Hold,28.4
+2025-05-22,Line_2,A,Quality Hold,31.0
+2025-05-22,Line_2,B,Maintenance,19.4
+2025-05-22,Line_2,C,Quality Hold,21.2
+2025-05-22,Line_3,A,Maintenance,84.0
+2025-05-22,Line_3,B,Operator Delay,52.7
+2025-05-22,Line_3,C,Material Shortage,25.9
+2025-05-22,Line_4,A,Material Shortage,33.0
+2025-05-22,Line_4,B,Quality Hold,50.8
+2025-05-22,Line_4,C,Quality Hold,23.9
+2025-05-23,Line_1,A,Operator Delay,58.8
+2025-05-23,Line_1,B,Changeover,50.3
+2025-05-23,Line_1,C,Changeover,46.7
+2025-05-23,Line_2,A,Changeover,55.8
+2025-05-23,Line_2,B,Maintenance,30.3
+2025-05-23,Line_2,C,Maintenance,44.5
+2025-05-23,Line_3,A,Changeover,1.6
+2025-05-23,Line_3,B,Maintenance,68.4
+2025-05-23,Line_3,C,Changeover,45.6
+2025-05-23,Line_4,A,Maintenance,19.7
+2025-05-23,Line_4,B,Changeover,38.7
+2025-05-23,Line_4,C,Changeover,26.6
+2025-05-24,Line_1,A,Changeover,49.6
+2025-05-24,Line_1,B,Operator Delay,58.9
+2025-05-24,Line_1,C,Quality Hold,23.4
+2025-05-24,Line_2,A,Changeover,27.7
+2025-05-24,Line_2,B,Material Shortage,31.5
+2025-05-24,Line_2,C,Quality Hold,37.0
+2025-05-24,Line_3,A,Material Shortage,38.8
+2025-05-24,Line_3,B,Changeover,14.1
+2025-05-24,Line_3,C,Maintenance,56.4
+2025-05-24,Line_4,A,Changeover,19.8
+2025-05-24,Line_4,B,Changeover,29.1
+2025-05-24,Line_4,C,Maintenance,42.3
+2025-05-25,Line_1,A,Operator Delay,35.1
+2025-05-25,Line_1,B,Maintenance,12.9
+2025-05-25,Line_1,C,Operator Delay,21.4
+2025-05-25,Line_2,A,Quality Hold,55.3
+2025-05-25,Line_2,B,Changeover,36.4
+2025-05-25,Line_2,C,Changeover,21.8
+2025-05-25,Line_3,A,Changeover,50.8
+2025-05-25,Line_3,B,Changeover,55.8
+2025-05-25,Line_3,C,Maintenance,51.2
+2025-05-25,Line_4,A,Changeover,39.4
+2025-05-25,Line_4,B,Material Shortage,33.5
+2025-05-25,Line_4,C,Changeover,15.4
+2025-05-26,Line_1,A,Quality Hold,56.6
+2025-05-26,Line_1,B,Changeover,19.8
+2025-05-26,Line_1,C,Maintenance,44.0
+2025-05-26,Line_2,A,Operator Delay,16.0
+2025-05-26,Line_2,B,Changeover,8.7
+2025-05-26,Line_2,C,Quality Hold,68.5
+2025-05-26,Line_3,A,Changeover,71.5
+2025-05-26,Line_3,B,Material Shortage,13.6
+2025-05-26,Line_3,C,Operator Delay,21.6
+2025-05-26,Line_4,A,Maintenance,54.7
+2025-05-26,Line_4,B,Maintenance,29.0
+2025-05-26,Line_4,C,Changeover,23.2
+2025-05-27,Line_1,A,Operator Delay,62.1
+2025-05-27,Line_1,B,Maintenance,39.6
+2025-05-27,Line_1,C,Material Shortage,58.5
+2025-05-27,Line_2,A,Quality Hold,25.8
+2025-05-27,Line_2,B,Changeover,47.9
+2025-05-27,Line_2,C,Material Shortage,0.4
+2025-05-27,Line_3,A,Changeover,57.4
+2025-05-27,Line_3,B,Operator Delay,0.0
+2025-05-27,Line_3,C,Changeover,69.8
+2025-05-27,Line_4,A,Changeover,25.0
+2025-05-27,Line_4,B,Maintenance,29.8
+2025-05-27,Line_4,C,Material Shortage,9.5
+2025-05-28,Line_1,A,Quality Hold,83.6
+2025-05-28,Line_1,B,Quality Hold,46.1
+2025-05-28,Line_1,C,Maintenance,56.6
+2025-05-28,Line_2,A,Operator Delay,14.5
+2025-05-28,Line_2,B,Maintenance,21.5
+2025-05-28,Line_2,C,Quality Hold,27.6
+2025-05-28,Line_3,A,Changeover,27.1
+2025-05-28,Line_3,B,Material Shortage,11.0
+2025-05-28,Line_3,C,Quality Hold,66.5
+2025-05-28,Line_4,A,Quality Hold,21.9
+2025-05-28,Line_4,B,Quality Hold,14.4
+2025-05-28,Line_4,C,Maintenance,34.3
+2025-05-29,Line_1,A,Quality Hold,42.4
+2025-05-29,Line_1,B,Changeover,32.8
+2025-05-29,Line_1,C,Material Shortage,22.8
+2025-05-29,Line_2,A,Quality Hold,67.3
+2025-05-29,Line_2,B,Maintenance,0.0
+2025-05-29,Line_2,C,Changeover,22.9
+2025-05-29,Line_3,A,Quality Hold,92.9
+2025-05-29,Line_3,B,Maintenance,26.1
+2025-05-29,Line_3,C,Maintenance,30.4
+2025-05-29,Line_4,A,Operator Delay,30.6
+2025-05-29,Line_4,B,Material Shortage,26.6
+2025-05-29,Line_4,C,Maintenance,32.8
+2025-05-30,Line_1,A,Maintenance,49.0
+2025-05-30,Line_1,B,Maintenance,28.8
+2025-05-30,Line_1,C,Material Shortage,46.5
+2025-05-30,Line_2,A,Changeover,52.7
+2025-05-30,Line_2,B,Maintenance,35.8
+2025-05-30,Line_2,C,Material Shortage,52.4
+2025-05-30,Line_3,A,Changeover,30.7
+2025-05-30,Line_3,B,Changeover,12.4
+2025-05-30,Line_3,C,Operator Delay,65.7
+2025-05-30,Line_4,A,Changeover,14.7
+2025-05-30,Line_4,B,Changeover,7.1
+2025-05-30,Line_4,C,Changeover,39.6
+2025-05-31,Line_1,A,Quality Hold,28.0
+2025-05-31,Line_1,B,Operator Delay,24.0
+2025-05-31,Line_1,C,Maintenance,12.9
+2025-05-31,Line_2,A,Material Shortage,28.6
+2025-05-31,Line_2,B,Maintenance,46.9
+2025-05-31,Line_2,C,Quality Hold,57.4
+2025-05-31,Line_3,A,Quality Hold,31.9
+2025-05-31,Line_3,B,Changeover,24.8
+2025-05-31,Line_3,C,Changeover,31.3
+2025-05-31,Line_4,A,Maintenance,54.7
+2025-05-31,Line_4,B,Changeover,30.5
+2025-05-31,Line_4,C,Maintenance,37.3
+2025-06-01,Line_1,A,Material Shortage,10.6
+2025-06-01,Line_1,B,Material Shortage,43.5
+2025-06-01,Line_1,C,Operator Delay,28.1
+2025-06-01,Line_2,A,Maintenance,0.4
+2025-06-01,Line_2,B,Quality Hold,15.7
+2025-06-01,Line_2,C,Maintenance,69.0
+2025-06-01,Line_3,A,Changeover,60.1
+2025-06-01,Line_3,B,Changeover,33.8
+2025-06-01,Line_3,C,Operator Delay,29.1
+2025-06-01,Line_4,A,Maintenance,35.5
+2025-06-01,Line_4,B,Changeover,0.0
+2025-06-01,Line_4,C,Changeover,54.8
+2025-06-02,Line_1,A,Material Shortage,41.9
+2025-06-02,Line_1,B,Maintenance,61.6
+2025-06-02,Line_1,C,Quality Hold,53.8
+2025-06-02,Line_2,A,Maintenance,6.2
+2025-06-02,Line_2,B,Maintenance,69.6
+2025-06-02,Line_2,C,Material Shortage,2.7
+2025-06-02,Line_3,A,Quality Hold,10.2
+2025-06-02,Line_3,B,Maintenance,54.5
+2025-06-02,Line_3,C,Operator Delay,19.8
+2025-06-02,Line_4,A,Changeover,29.4
+2025-06-02,Line_4,B,Changeover,46.1
+2025-06-02,Line_4,C,Changeover,9.1
+2025-06-03,Line_1,A,Material Shortage,28.0
+2025-06-03,Line_1,B,Material Shortage,20.9
+2025-06-03,Line_1,C,Material Shortage,9.6
+2025-06-03,Line_2,A,Maintenance,45.6
+2025-06-03,Line_2,B,Material Shortage,0.0
+2025-06-03,Line_2,C,Changeover,52.9
+2025-06-03,Line_3,A,Material Shortage,40.9
+2025-06-03,Line_3,B,Maintenance,26.3
+2025-06-03,Line_3,C,Changeover,44.1
+2025-06-03,Line_4,A,Maintenance,6.6
+2025-06-03,Line_4,B,Maintenance,52.8
+2025-06-03,Line_4,C,Maintenance,51.2
+2025-06-04,Line_1,A,Changeover,24.8
+2025-06-04,Line_1,B,Quality Hold,35.1
+2025-06-04,Line_1,C,Material Shortage,28.9
+2025-06-04,Line_2,A,Changeover,31.6
+2025-06-04,Line_2,B,Operator Delay,5.5
+2025-06-04,Line_2,C,Changeover,17.5
+2025-06-04,Line_3,A,Material Shortage,13.0
+2025-06-04,Line_3,B,Changeover,36.6
+2025-06-04,Line_3,C,Operator Delay,22.9
+2025-06-04,Line_4,A,Maintenance,45.0
+2025-06-04,Line_4,B,Changeover,48.3
+2025-06-04,Line_4,C,Quality Hold,25.6
+2025-06-05,Line_1,A,Material Shortage,49.0
+2025-06-05,Line_1,B,Operator Delay,24.9
+2025-06-05,Line_1,C,Maintenance,32.8
+2025-06-05,Line_2,A,Quality Hold,33.0
+2025-06-05,Line_2,B,Maintenance,29.8
+2025-06-05,Line_2,C,Changeover,31.3
+2025-06-05,Line_3,A,Changeover,41.3
+2025-06-05,Line_3,B,Maintenance,33.5
+2025-06-05,Line_3,C,Material Shortage,9.1
+2025-06-05,Line_4,A,Changeover,13.4
+2025-06-05,Line_4,B,Quality Hold,37.3
+2025-06-05,Line_4,C,Changeover,38.2
+2025-06-06,Line_1,A,Operator Delay,49.8
+2025-06-06,Line_1,B,Maintenance,54.7
+2025-06-06,Line_1,C,Material Shortage,49.9
+2025-06-06,Line_2,A,Operator Delay,24.1
+2025-06-06,Line_2,B,Maintenance,34.4
+2025-06-06,Line_2,C,Maintenance,27.6
+2025-06-06,Line_3,A,Maintenance,23.0
+2025-06-06,Line_3,B,Operator Delay,51.7
+2025-06-06,Line_3,C,Operator Delay,32.6
+2025-06-06,Line_4,A,Operator Delay,40.8
+2025-06-06,Line_4,B,Quality Hold,3.6
+2025-06-06,Line_4,C,Material Shortage,23.4
+2025-06-07,Line_1,A,Maintenance,44.5
+2025-06-07,Line_1,B,Changeover,43.3
+2025-06-07,Line_1,C,Changeover,53.5
+2025-06-07,Line_2,A,Operator Delay,48.5
+2025-06-07,Line_2,B,Maintenance,37.7
+2025-06-07,Line_2,C,Changeover,20.5
+2025-06-07,Line_3,A,Maintenance,36.8
+2025-06-07,Line_3,B,Quality Hold,31.3
+2025-06-07,Line_3,C,Maintenance,38.9
+2025-06-07,Line_4,A,Operator Delay,33.1
+2025-06-07,Line_4,B,Quality Hold,76.1
+2025-06-07,Line_4,C,Changeover,74.1
+2025-06-08,Line_1,A,Changeover,31.1
+2025-06-08,Line_1,B,Quality Hold,27.0
+2025-06-08,Line_1,C,Maintenance,53.7
+2025-06-08,Line_2,A,Material Shortage,38.4
+2025-06-08,Line_2,B,Material Shortage,30.6
+2025-06-08,Line_2,C,Material Shortage,43.1
+2025-06-08,Line_3,A,Maintenance,36.2
+2025-06-08,Line_3,B,Maintenance,55.4
+2025-06-08,Line_3,C,Quality Hold,24.1
+2025-06-08,Line_4,A,Maintenance,27.8
+2025-06-08,Line_4,B,Material Shortage,43.8
+2025-06-08,Line_4,C,Changeover,24.1
+2025-06-09,Line_1,A,Changeover,26.0
+2025-06-09,Line_1,B,Quality Hold,52.9
+2025-06-09,Line_1,C,Material Shortage,20.3
+2025-06-09,Line_2,A,Quality Hold,61.0
+2025-06-09,Line_2,B,Operator Delay,54.0
+2025-06-09,Line_2,C,Maintenance,40.4
+2025-06-09,Line_3,A,Changeover,38.1
+2025-06-09,Line_3,B,Operator Delay,28.3
+2025-06-09,Line_3,C,Quality Hold,32.5
+2025-06-09,Line_4,A,Quality Hold,18.1
+2025-06-09,Line_4,B,Maintenance,51.6
+2025-06-09,Line_4,C,Quality Hold,16.2
+2025-06-10,Line_1,A,Quality Hold,42.0
+2025-06-10,Line_1,B,Quality Hold,32.1
+2025-06-10,Line_1,C,Quality Hold,56.4
+2025-06-10,Line_2,A,Quality Hold,59.4
+2025-06-10,Line_2,B,Quality Hold,45.7
+2025-06-10,Line_2,C,Maintenance,14.1
+2025-06-10,Line_3,A,Material Shortage,57.0
+2025-06-10,Line_3,B,Material Shortage,18.1
+2025-06-10,Line_3,C,Changeover,22.5
+2025-06-10,Line_4,A,Material Shortage,42.0
+2025-06-10,Line_4,B,Maintenance,31.0
+2025-06-10,Line_4,C,Operator Delay,49.6
+2025-06-11,Line_1,A,Maintenance,23.2
+2025-06-11,Line_1,B,Quality Hold,32.7
+2025-06-11,Line_1,C,Operator Delay,46.5
+2025-06-11,Line_2,A,Maintenance,71.0
+2025-06-11,Line_2,B,Changeover,31.5
+2025-06-11,Line_2,C,Maintenance,44.6
+2025-06-11,Line_3,A,Changeover,14.4
+2025-06-11,Line_3,B,Material Shortage,36.8
+2025-06-11,Line_3,C,Material Shortage,19.5
+2025-06-11,Line_4,A,Operator Delay,0.0
+2025-06-11,Line_4,B,Quality Hold,19.6
+2025-06-11,Line_4,C,Quality Hold,24.5
+2025-06-12,Line_1,A,Changeover,34.1
+2025-06-12,Line_1,B,Operator Delay,34.4
+2025-06-12,Line_1,C,Quality Hold,65.5
+2025-06-12,Line_2,A,Operator Delay,43.9
+2025-06-12,Line_2,B,Changeover,34.1
+2025-06-12,Line_2,C,Material Shortage,44.9
+2025-06-12,Line_3,A,Material Shortage,45.0
+2025-06-12,Line_3,B,Changeover,44.6
+2025-06-12,Line_3,C,Material Shortage,63.8
+2025-06-12,Line_4,A,Material Shortage,43.4
+2025-06-12,Line_4,B,Changeover,30.1
+2025-06-12,Line_4,C,Maintenance,27.7
+2025-06-13,Line_1,A,Material Shortage,37.2
+2025-06-13,Line_1,B,Maintenance,80.4
+2025-06-13,Line_1,C,Material Shortage,33.1
+2025-06-13,Line_2,A,Material Shortage,20.6
+2025-06-13,Line_2,B,Quality Hold,42.0
+2025-06-13,Line_2,C,Maintenance,18.9
+2025-06-13,Line_3,A,Changeover,31.0
+2025-06-13,Line_3,B,Operator Delay,24.4
+2025-06-13,Line_3,C,Maintenance,4.3
+2025-06-13,Line_4,A,Quality Hold,39.5
+2025-06-13,Line_4,B,Material Shortage,51.2
+2025-06-13,Line_4,C,Material Shortage,73.7
+2025-06-14,Line_1,A,Quality Hold,52.1
+2025-06-14,Line_1,B,Material Shortage,51.3
+2025-06-14,Line_1,C,Quality Hold,35.7
+2025-06-14,Line_2,A,Quality Hold,37.8
+2025-06-14,Line_2,B,Changeover,37.9
+2025-06-14,Line_2,C,Quality Hold,55.7
+2025-06-14,Line_3,A,Quality Hold,45.1
+2025-06-14,Line_3,B,Quality Hold,9.2
+2025-06-14,Line_3,C,Maintenance,21.5
+2025-06-14,Line_4,A,Material Shortage,17.8
+2025-06-14,Line_4,B,Maintenance,42.4
+2025-06-14,Line_4,C,Material Shortage,15.6
+2025-06-15,Line_1,A,Quality Hold,29.3
+2025-06-15,Line_1,B,Maintenance,33.8
+2025-06-15,Line_1,C,Changeover,4.3
+2025-06-15,Line_2,A,Operator Delay,61.6
+2025-06-15,Line_2,B,Material Shortage,24.8
+2025-06-15,Line_2,C,Maintenance,19.8
+2025-06-15,Line_3,A,Changeover,56.2
+2025-06-15,Line_3,B,Material Shortage,55.2
+2025-06-15,Line_3,C,Maintenance,16.6
+2025-06-15,Line_4,A,Quality Hold,59.3
+2025-06-15,Line_4,B,Operator Delay,30.7
+2025-06-15,Line_4,C,Quality Hold,44.4
+2025-06-16,Line_1,A,Quality Hold,20.0
+2025-06-16,Line_1,B,Maintenance,33.6
+2025-06-16,Line_1,C,Material Shortage,30.9
+2025-06-16,Line_2,A,Changeover,67.7
+2025-06-16,Line_2,B,Material Shortage,37.7
+2025-06-16,Line_2,C,Operator Delay,41.8
+2025-06-16,Line_3,A,Changeover,12.8
+2025-06-16,Line_3,B,Maintenance,16.0
+2025-06-16,Line_3,C,Changeover,61.9
+2025-06-16,Line_4,A,Operator Delay,67.1
+2025-06-16,Line_4,B,Changeover,14.5
+2025-06-16,Line_4,C,Changeover,60.6
+2025-06-17,Line_1,A,Quality Hold,13.5
+2025-06-17,Line_1,B,Quality Hold,8.7
+2025-06-17,Line_1,C,Material Shortage,14.9
+2025-06-17,Line_2,A,Quality Hold,24.0
+2025-06-17,Line_2,B,Changeover,41.6
+2025-06-17,Line_2,C,Material Shortage,27.4
+2025-06-17,Line_3,A,Maintenance,56.2
+2025-06-17,Line_3,B,Operator Delay,0.0
+2025-06-17,Line_3,C,Changeover,52.1
+2025-06-17,Line_4,A,Operator Delay,33.3
+2025-06-17,Line_4,B,Material Shortage,31.0
+2025-06-17,Line_4,C,Material Shortage,27.5
+2025-06-18,Line_1,A,Changeover,8.3
+2025-06-18,Line_1,B,Quality Hold,47.5
+2025-06-18,Line_1,C,Maintenance,46.7
+2025-06-18,Line_2,A,Material Shortage,22.3
+2025-06-18,Line_2,B,Material Shortage,15.1
+2025-06-18,Line_2,C,Maintenance,15.4
+2025-06-18,Line_3,A,Material Shortage,38.7
+2025-06-18,Line_3,B,Material Shortage,7.7
+2025-06-18,Line_3,C,Changeover,24.0
+2025-06-18,Line_4,A,Changeover,0.0
+2025-06-18,Line_4,B,Changeover,22.2
+2025-06-18,Line_4,C,Maintenance,30.5
+2025-06-19,Line_1,A,Quality Hold,49.6
+2025-06-19,Line_1,B,Quality Hold,29.4
+2025-06-19,Line_1,C,Changeover,63.5
+2025-06-19,Line_2,A,Material Shortage,56.9
+2025-06-19,Line_2,B,Changeover,46.2
+2025-06-19,Line_2,C,Maintenance,32.4
+2025-06-19,Line_3,A,Operator Delay,55.6
+2025-06-19,Line_3,B,Material Shortage,35.0
+2025-06-19,Line_3,C,Operator Delay,28.7
+2025-06-19,Line_4,A,Material Shortage,3.0
+2025-06-19,Line_4,B,Changeover,39.5
+2025-06-19,Line_4,C,Material Shortage,92.9
+2025-06-20,Line_1,A,Maintenance,17.4
+2025-06-20,Line_1,B,Changeover,81.1
+2025-06-20,Line_1,C,Operator Delay,33.2
+2025-06-20,Line_2,A,Changeover,37.6
+2025-06-20,Line_2,B,Maintenance,45.3
+2025-06-20,Line_2,C,Maintenance,42.6
+2025-06-20,Line_3,A,Changeover,24.3
+2025-06-20,Line_3,B,Material Shortage,29.6
+2025-06-20,Line_3,C,Changeover,23.9
+2025-06-20,Line_4,A,Operator Delay,38.1
+2025-06-20,Line_4,B,Changeover,58.0
+2025-06-20,Line_4,C,Maintenance,20.2
+2025-06-21,Line_1,A,Material Shortage,54.1
+2025-06-21,Line_1,B,Material Shortage,50.3
+2025-06-21,Line_1,C,Quality Hold,54.4
+2025-06-21,Line_2,A,Operator Delay,36.9
+2025-06-21,Line_2,B,Material Shortage,43.5
+2025-06-21,Line_2,C,Operator Delay,39.7
+2025-06-21,Line_3,A,Changeover,48.1
+2025-06-21,Line_3,B,Quality Hold,51.2
+2025-06-21,Line_3,C,Quality Hold,24.0
+2025-06-21,Line_4,A,Quality Hold,41.3
+2025-06-21,Line_4,B,Maintenance,9.9
+2025-06-21,Line_4,C,Material Shortage,38.6
+2025-06-22,Line_1,A,Operator Delay,18.9
+2025-06-22,Line_1,B,Maintenance,35.2
+2025-06-22,Line_1,C,Quality Hold,40.7
+2025-06-22,Line_2,A,Material Shortage,57.4
+2025-06-22,Line_2,B,Material Shortage,12.1
+2025-06-22,Line_2,C,Quality Hold,15.2
+2025-06-22,Line_3,A,Changeover,51.0
+2025-06-22,Line_3,B,Changeover,18.7
+2025-06-22,Line_3,C,Changeover,44.7
+2025-06-22,Line_4,A,Maintenance,60.8
+2025-06-22,Line_4,B,Changeover,21.4
+2025-06-22,Line_4,C,Changeover,24.9
+2025-06-23,Line_1,A,Changeover,58.9
+2025-06-23,Line_1,B,Material Shortage,34.4
+2025-06-23,Line_1,C,Maintenance,46.7
+2025-06-23,Line_2,A,Maintenance,43.1
+2025-06-23,Line_2,B,Changeover,39.9
+2025-06-23,Line_2,C,Changeover,44.5
+2025-06-23,Line_3,A,Quality Hold,32.8
+2025-06-23,Line_3,B,Material Shortage,0.0
+2025-06-23,Line_3,C,Quality Hold,54.3
+2025-06-23,Line_4,A,Material Shortage,44.6
+2025-06-23,Line_4,B,Quality Hold,28.9
+2025-06-23,Line_4,C,Changeover,57.5
+2025-06-24,Line_1,A,Material Shortage,44.0
+2025-06-24,Line_1,B,Changeover,43.7
+2025-06-24,Line_1,C,Operator Delay,42.9
+2025-06-24,Line_2,A,Changeover,15.4
+2025-06-24,Line_2,B,Changeover,35.6
+2025-06-24,Line_2,C,Maintenance,59.4
+2025-06-24,Line_3,A,Changeover,23.2
+2025-06-24,Line_3,B,Maintenance,24.1
+2025-06-24,Line_3,C,Changeover,17.7
+2025-06-24,Line_4,A,Material Shortage,42.1
+2025-06-24,Line_4,B,Quality Hold,36.6
+2025-06-24,Line_4,C,Maintenance,40.5
+2025-06-25,Line_1,A,Quality Hold,42.0
+2025-06-25,Line_1,B,Operator Delay,33.1
+2025-06-25,Line_1,C,Maintenance,33.9
+2025-06-25,Line_2,A,Material Shortage,57.9
+2025-06-25,Line_2,B,Operator Delay,34.2
+2025-06-25,Line_2,C,Maintenance,40.1
+2025-06-25,Line_3,A,Changeover,20.9
+2025-06-25,Line_3,B,Maintenance,3.3
+2025-06-25,Line_3,C,Maintenance,43.2
+2025-06-25,Line_4,A,Maintenance,32.7
+2025-06-25,Line_4,B,Changeover,26.3
+2025-06-25,Line_4,C,Maintenance,67.2
+2025-06-26,Line_1,A,Maintenance,51.2
+2025-06-26,Line_1,B,Material Shortage,59.5
+2025-06-26,Line_1,C,Operator Delay,44.3
+2025-06-26,Line_2,A,Changeover,43.1
+2025-06-26,Line_2,B,Changeover,41.2
+2025-06-26,Line_2,C,Maintenance,34.7
+2025-06-26,Line_3,A,Material Shortage,25.2
+2025-06-26,Line_3,B,Maintenance,3.4
+2025-06-26,Line_3,C,Changeover,45.2
+2025-06-26,Line_4,A,Changeover,46.8
+2025-06-26,Line_4,B,Changeover,7.2
+2025-06-26,Line_4,C,Material Shortage,67.1
+2025-06-27,Line_1,A,Operator Delay,39.3
+2025-06-27,Line_1,B,Quality Hold,56.5
+2025-06-27,Line_1,C,Maintenance,36.0
+2025-06-27,Line_2,A,Quality Hold,42.7
+2025-06-27,Line_2,B,Material Shortage,46.2
+2025-06-27,Line_2,C,Changeover,22.6
+2025-06-27,Line_3,A,Quality Hold,35.3
+2025-06-27,Line_3,B,Quality Hold,56.6
+2025-06-27,Line_3,C,Operator Delay,32.0
+2025-06-27,Line_4,A,Changeover,15.8
+2025-06-27,Line_4,B,Material Shortage,8.6
+2025-06-27,Line_4,C,Material Shortage,18.9
+2025-06-28,Line_1,A,Changeover,55.9
+2025-06-28,Line_1,B,Changeover,21.3
+2025-06-28,Line_1,C,Changeover,45.6
+2025-06-28,Line_2,A,Maintenance,39.2
+2025-06-28,Line_2,B,Maintenance,13.0
+2025-06-28,Line_2,C,Material Shortage,62.9
+2025-06-28,Line_3,A,Quality Hold,24.7
+2025-06-28,Line_3,B,Operator Delay,31.1
+2025-06-28,Line_3,C,Quality Hold,46.0
+2025-06-28,Line_4,A,Maintenance,0.0
+2025-06-28,Line_4,B,Quality Hold,23.7
+2025-06-28,Line_4,C,Maintenance,68.7
+2025-06-29,Line_1,A,Operator Delay,29.5
+2025-06-29,Line_1,B,Material Shortage,6.8
+2025-06-29,Line_1,C,Quality Hold,15.6
+2025-06-29,Line_2,A,Material Shortage,16.0
+2025-06-29,Line_2,B,Maintenance,49.1
+2025-06-29,Line_2,C,Maintenance,3.5
+2025-06-29,Line_3,A,Maintenance,18.8
+2025-06-29,Line_3,B,Material Shortage,0.0
+2025-06-29,Line_3,C,Maintenance,43.3
+2025-06-29,Line_4,A,Changeover,7.5
+2025-06-29,Line_4,B,Quality Hold,16.5
+2025-06-29,Line_4,C,Changeover,48.4
